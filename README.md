@@ -6,7 +6,7 @@ _____________________ Personal Profile _________________________________________
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 ____________________________________________________________________________________
-- I’m currently studying Computer Sciences @ The University Of Prtetoria
+- I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - How to reach me: WhatsApp(+27 664110178), Email(sbkskhalo.kq@gmail.com)
 - Currently Unemployed
 ____________________________________________________________________________________
