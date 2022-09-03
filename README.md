@@ -8,4 +8,5 @@ _____________________ Personal Profile _________________________________________
 ____________________________________________________________________________________
 - I’m currently studying Computer Sciences @(University Of Prtetoria)
 - How to reach me: WhatsApp(+27 664110178), Email(sbkskhalo.kq@gmail.com)
+- Currently Unemployed
 ____________________________________________________________________________________
