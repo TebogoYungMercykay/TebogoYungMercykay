@@ -7,6 +7,7 @@ _____________________ Personal Profile _________________________________________
 - I am well organized and always plan ahead to make sure I manage my time well.
 ____________________________________________________________________________________
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
+- And I am also enroled in the Cloud Development online course by ALX( Udacity ).
 - How to reach me: WhatsApp(+27 664110178), Email(sbkskhalo.kq@gmail.com)
 - Currently Unemployed
 ____________________________________________________________________________________
