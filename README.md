@@ -11,3 +11,7 @@ ________________________________________________________________________________
 - How to reach me: WhatsApp(+27 664110178), Email(sbkskhalo.kq@gmail.com)
 - Currently Unemployed
 ____________________________________________________________________________________
+_____________________ Links ________________________________________________________
+LinkedIn: https://www.linkedin.com/in/tebogo-s-selepe-692161246/
+Chess.com: https://www.chess.com/member/yungmercykay
+Lichess.org: https://lichess.org/@/UberKidmodeEats
