@@ -12,6 +12,6 @@ ________________________________________________________________________________
 - Currently Unemployed
 ____________________________________________________________________________________
 _____________________ Links ________________________________________________________
-LinkedIn: https://www.linkedin.com/in/tebogo-s-selepe-692161246/
-Chess.com: https://www.chess.com/member/yungmercykay
-Lichess.org: https://lichess.org/@/UberKidmodeEats
+- LinkedIn: https://www.linkedin.com/in/tebogo-s-selepe-692161246/
+- Chess.com: https://www.chess.com/member/yungmercykay
+- Lichess.org: https://lichess.org/@/UberKidmodeEats
