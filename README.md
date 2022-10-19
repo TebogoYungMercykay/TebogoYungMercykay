@@ -18,6 +18,6 @@ ________________________________________________________________________________
 - Email: sbkskhalo.kq@gmail.com
 ____________________________________________________________________________________
 ## Links
-- LinkedIn: https://www.linkedin.com/in/tebogo-s-selepe-692161246/
+- LinkedIn: https://www.linkedin.com/in/sello-selepe-692161246/
 - Chess.com: https://www.chess.com/member/yungmercykay
 - Lichess.org: https://lichess.org/@/UberKidmodeEats
