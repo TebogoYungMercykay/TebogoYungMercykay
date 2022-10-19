@@ -6,17 +6,17 @@ ________________________________________________________________________________
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 
-# Studies
+## Studies
 ____________________________________________________________________________________
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - And I am also enroled in the Cloud Development online course by ALX( Udacity ).
 - Currently Unemployed
 
-# Contacts
+## Contacts
 ____________________________________________________________________________________
 - How to reach me: WhatsApp(+27 664110178), Email(sbkskhalo.kq@gmail.com)
 ____________________________________________________________________________________
-# Links
+## Links
 - LinkedIn: https://www.linkedin.com/in/tebogo-s-selepe-692161246/
 - Chess.com: https://www.chess.com/member/yungmercykay
 - Lichess.org: https://lichess.org/@/UberKidmodeEats
