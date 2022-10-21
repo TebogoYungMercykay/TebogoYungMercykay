@@ -18,7 +18,7 @@ ________________________________________________________________________________
 ## Studies
 ____________________________________________________________________________________
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
-- And I am also enroled in the Cloud Development online course by ALX( Udacity ).
+- I also compleeted the Cloud Development Nanodegree Program by Udacity (ALX).
 - Currently Unemployed
 
 ## Contacts
