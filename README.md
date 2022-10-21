@@ -10,7 +10,7 @@ I am a Full Stack Developer and Mentor at the University of Pretoria (STARS Ment
 
 ## SKILLS 
 ____________________________________________________________________________________
-- languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS, React, Typescript, AngularJS, Ionic, JSON, Bootstrap, AJAX, HTML & CSS, SQL and many more. 
+- Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
 - databases: MongoDB, NeDB, phpMyAdmin, PostgreSQL and MySQL. 
