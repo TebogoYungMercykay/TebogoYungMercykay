@@ -10,6 +10,11 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 
 ## SKILLS 
 ____________________________________________________________________________________
+- Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
+- Operating Systems: Linux and Windows 
+- Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
+- databases: MongoDB, NeDB, phpMyAdmin, PostgreSQL and MySQL. 
+____________________________________________________________________________________
 ### Create a Todo. Serverless.
 ```Typescript
   async createToDo(todoItem: TodoItem): Promise<TodoItem>{
@@ -23,11 +28,6 @@ ________________________________________________________________________________
         return todoItem as TodoItem;
     }
 ```
-____________________________________________________________________________________
-- Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
-- Operating Systems: Linux and Windows 
-- Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
-- databases: MongoDB, NeDB, phpMyAdmin, PostgreSQL and MySQL. 
 
 ## Studies
 ____________________________________________________________________________________
