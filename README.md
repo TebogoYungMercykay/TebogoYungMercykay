@@ -10,6 +10,20 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 
 ## SKILLS 
 ____________________________________________________________________________________
+### Create a Todo. Serverless.
+```Typescript
+  async createToDo(todoItem: TodoItem): Promise<TodoItem>{
+        console.log("Creating new todo");
+        const params = { 
+            todo_Table: this.todosTable, 
+            Item: todoItem,
+        };
+        const result = await this.documentClient.put(params).promise();
+        logger.info('User created a todo', {result})
+        return todoItem as TodoItem;
+    }
+```
+____________________________________________________________________________________
 - Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
