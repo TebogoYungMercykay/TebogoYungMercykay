@@ -26,7 +26,7 @@ ________________________________________________________________________________
         const result = await this.documentClient.put(params).promise();
         logger.info('User created a todo', {result})
         return todoItem as TodoItem;
-    }
+  }
 ```
 
 ## Studies
