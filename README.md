@@ -33,7 +33,19 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also compleeted the Cloud Development Nanodegree Program by Udacity (ALX).
-- Currently Unemployed
+
+## Employment
+____________________________________________________________________________________
+- Computer Laboratory Technician
+- Part-Tine at the Mamelodi IT Labs (University of Pretoria)
+- Skills:
+  - Software Installation
+  - Hardware Installation
+  - Computer Hardware Assembly
+  - LCD Projectors
+  - Live Casting
+  - Sever Casting
+  - Microsoft Office
 
 ## Contacts
 ____________________________________________________________________________________
