@@ -1,4 +1,4 @@
-![Background Image](https://github.com/TebogoYungMercykay/TebogoYungMercykay/blob/main/Image3.jpg)
+![Background Image](Image3.jpg)
 ____________________________________________________________________________________
 # Personal Profile 
 I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
