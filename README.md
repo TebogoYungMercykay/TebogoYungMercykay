@@ -14,8 +14,7 @@ ________________________________________________________________________________
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
 - databases: MongoDB, NeDB, phpMyAdmin, PostgreSQL and MySQL. 
-____________________________________________________________________________________
-### Create a Todo. Serverless.
+##### Create a Todo. Serverless.
 ```Typescript
   async createToDo(todoItem: TodoItem): Promise<TodoItem>{
         console.log("Creating new todo");
