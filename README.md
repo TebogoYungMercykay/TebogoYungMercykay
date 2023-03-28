@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ## Employment
 ____________________________________________________________________________________
 - Computer Laboratory Technician
-- Part-Tine at the Mamelodi IT Labs (University of Pretoria)
+- Part-Time at the Mamelodi IT Labs (University of Pretoria)
 - Skills:
   - Software Installation
   - Hardware Installation
