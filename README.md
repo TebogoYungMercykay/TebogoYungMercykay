@@ -1,7 +1,8 @@
+____________________________________________________________________________________
+# Personal Profile
+
 <img alt="Profile Picture (*_*)" src="Image5.jfif" width="200" height="200">
 
-____________________________________________________________________________________
-# Personal Profile 
 I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
 
 - I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work.
