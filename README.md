@@ -7,7 +7,6 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 - I also work well on my own as I like to set myself goals which I will achieve. 
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
-
 ____________________________________________________________________________________
 ## SKILLS 
 - Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
@@ -44,7 +43,6 @@ ________________________________________________________________________________
   - Live Casting
   - Sever Casting
   - Microsoft Office
-
 ____________________________________________________________________________________
 ## Contacts
 - WhatsApp/Mobile: +27 66 411 0178
