@@ -1,4 +1,4 @@
-<img alt="Profile Picture (*_*)" src="Image4.jpeg" width="200" height="180" border-radius="50%">
+<img alt="Profile Picture (*_*)" src="Image4.jpeg" width="200" height="180">
 
 ____________________________________________________________________________________
 # Personal Profile 
