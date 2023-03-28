@@ -1,4 +1,4 @@
-<img src="image4.jpg" alt="Image" style="border-radius: 50%;">
+<img src="[image4.jpg](https://github.com/TebogoYungMercykay/TebogoYungMercykay/blob/main/Image4.jpeg)" alt="Image" style="border-radius: 50%;">
 
 ____________________________________________________________________________________
 # Personal Profile 
