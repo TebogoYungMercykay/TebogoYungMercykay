@@ -1,5 +1,5 @@
-# Personal Profile 
 ____________________________________________________________________________________
+# Personal Profile 
 I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
 
 - I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work.
@@ -8,8 +8,8 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 
-## SKILLS 
 ____________________________________________________________________________________
+## SKILLS 
 - Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
@@ -27,14 +27,13 @@ ________________________________________________________________________________
         return todoItem as TodoItem;
   }
 ```
-
-## Studies
 ____________________________________________________________________________________
+## Studies
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also completed the Cloud Development Nanodegree Program by Udacity (ALX).
 
-## Employment
 ____________________________________________________________________________________
+## Employment
 - Computer Laboratory Technician
 - Part-Time at the Mamelodi IT Labs (University of Pretoria)
 - Skills:
@@ -46,8 +45,8 @@ ________________________________________________________________________________
   - Sever Casting
   - Microsoft Office
 
-## Contacts
 ____________________________________________________________________________________
+## Contacts
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 ____________________________________________________________________________________
