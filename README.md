@@ -58,6 +58,6 @@ ________________________________________________________________________________
 - Lichess.org: https://lichess.org/@/UberKidmodeEats
 ____________________________________________________________________________________
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=8&theme=radical&hide_border=true"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=8&theme=radical&hide_border=true"></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=8&theme=transparent&hide_border=true"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=8&theme=transparent&hide_border=true"></a>
   ____________________________________________________________________________________
