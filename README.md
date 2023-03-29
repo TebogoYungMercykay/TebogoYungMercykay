@@ -12,12 +12,12 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 ____________________________________________________________________________________
-## <p align=center>SKILLS</p>
+## SKILLS
 - Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
 - databases: MongoDB, NeDB, phpMyAdmin, PostgreSQL and MySQL. 
-#### Create a Todo. Serverless.
+#### <p align=center>Create a Todo. Serverless.</p>
 ```Typescript
   async createToDo(todoItem: TodoItem): Promise<TodoItem>{
         console.log("Creating new todo");
@@ -31,12 +31,12 @@ ________________________________________________________________________________
   }
 ```
 ____________________________________________________________________________________
-  ## <p align=center>Studies</P>
+  ## Studies
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also completed the Cloud Development Nanodegree Program by Udacity (ALX).
 
 ____________________________________________________________________________________
-## <p align=center>Employment</p>
+## Employment
 - Computer Laboratory Technician
 - Part-Time at the Mamelodi IT Labs (University of Pretoria)
 - Skills Used:
@@ -48,11 +48,11 @@ ________________________________________________________________________________
   - Sever Casting
   - Microsoft Office
 ____________________________________________________________________________________
-## <p align=center>Contacts</p>
+## Contacts
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 ____________________________________________________________________________________
-## <p align=center>Links<p>
+## Links
 - LinkedIn: https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/
 - Chess.com: https://www.chess.com/member/yungmercykay
 - Lichess.org: https://lichess.org/@/UberKidmodeEats
