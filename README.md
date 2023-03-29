@@ -2,7 +2,7 @@ ________________________________________________________________________________
 <p align=center><img alt="Profile Picture (*_*)" src="Image5.jfif" width="200" height="200"><p>
 
 ____________________________________________________________________________________
-# Personal Profile
+# <p align=center>Personal Profile</p>
 
 I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
 
@@ -12,7 +12,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 ____________________________________________________________________________________
-## SKILLS 
+## <p align=center>SKILLS</p>
 - Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
@@ -31,12 +31,12 @@ ________________________________________________________________________________
   }
 ```
 ____________________________________________________________________________________
-## Studies
+  ## <p align=center>Studies</P>
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also completed the Cloud Development Nanodegree Program by Udacity (ALX).
 
 ____________________________________________________________________________________
-## Employment
+## <p align=center>Employment</p>
 - Computer Laboratory Technician
 - Part-Time at the Mamelodi IT Labs (University of Pretoria)
 - Skills Used:
@@ -48,11 +48,11 @@ ________________________________________________________________________________
   - Sever Casting
   - Microsoft Office
 ____________________________________________________________________________________
-## Contacts
+## <p align=center>Contacts</p>
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 ____________________________________________________________________________________
-## Links
+## <p align=center>Links<p>
 - LinkedIn: https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/
 - Chess.com: https://www.chess.com/member/yungmercykay
 - Lichess.org: https://lichess.org/@/UberKidmodeEats
