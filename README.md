@@ -1,5 +1,5 @@
 ____________________________________________________________________________________
-<a href="url"><img src="Image5.jfif" height="auto" width="200" style="border-radius:50%"></a>
+<p align=center><img src="Image5.jfif" height="auto" width="200"></p>
 ____________________________________________________________________________________
 # <p align=center>Personal Profile</p>
 
