@@ -1,6 +1,17 @@
 ____________________________________________________________________________________
-<p align=center><img alt="Profile Picture (*_*)" src="Image5.jfif" style="border-radius:50%" width="200" height="200"><p>
+<!-- <p align=center>Hey There!<p> -->
+<head>
+  <style>
+    .rounded-image {
+      border-radius: 50%;
+    }
+  </style>
+</head>
 
+<body>
+  <img alt="Profile Picture (*_*)" src="Image5.jfif" width="200" height="200"  class="rounded-image">
+<!--   <img src="Image5.jfif" alt="Profile Picture (*_*)" class="rounded-image"> -->
+</body>
 ____________________________________________________________________________________
 # <p align=center>Personal Profile</p>
 
