@@ -54,13 +54,13 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 ## Links
 - LinkedIn: https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/
+- BabyPips: https://www.babypips.com/learn
 - Chess.com: https://www.chess.com/member/yungmercykay
 - Lichess.org: https://lichess.org/@/UberKidmodeEats
 - Chess Network: https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp
-- BabyPips: https://www.babypips.com/learn
-- Crash Course Computer Sciences: https://youtu.be/tpIctyqH29Q
 - The CS50: https://www.youtube.com/@cs50
 - Online Compiler: https://www.onlinegdb.com/online_java_compiler
+- Crash Course Computer Sciences: https://youtu.be/tpIctyqH29Q
 ____________________________________________________________________________________
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=8&theme=transparent&hide_border=true"></a>
