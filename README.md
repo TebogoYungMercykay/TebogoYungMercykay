@@ -1,5 +1,5 @@
 ____________________________________________________________________________________
-<img align=center alt="Profile Picture (*_*)" src="Image5.jfif" width="200" height="200">
+<p align=center><img alt="Profile Picture (*_*)" src="Image5.jfif" width="200" height="200"><p>
 
 ____________________________________________________________________________________
 # Personal Profile
