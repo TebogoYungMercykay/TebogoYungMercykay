@@ -33,7 +33,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
   ## Studies
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
-- I also completed the Cloud Development Nanodegree Program by Udacity (ALX).
+- I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
 
 ____________________________________________________________________________________
 ## Employment
