@@ -46,8 +46,16 @@ ________________________________________________________________________________
       - [For Fun: Simple Web App](https://github.com/TebogoYungMercykay/Simple_Web_App.git)
     - Bootstrap: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
     - [Load More](https://github.com/TebogoYungMercykay?tab=repositories)
-- Operating Systems: Linux and Windows 
-- Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
+- Operating Systems:
+  - Linux
+  - Windows 
+- Terminals:
+  - CMD
+  - Bash
+  - WSL
+  - PowerShell
+  - Ubuntu
+  - Many more.... 
 - databases and Tools
   - Learned from School: phpMyAdmin and MySQL.
   - Additional: MongoDB, NeDB and PostgreSQL.
@@ -101,6 +109,15 @@ ________________________________________________________________________________
 - Chess Network: [YouTube](https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
 - Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
 - Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
+- Some Resources:
+  - STACK OVERFLOW: [Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+  - MDN Web Docs: [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web)
+  - W3Schools: [Tutorials Dropdown](https://www.w3schools.com/)
+  - Bootstrap: [v5.3](https://getbootstrap.com/)
+  - PHP Documentation: [Manual in English](https://www.php.net/manual/en/)
+  - .Net: [Documentation](https://learn.microsoft.com/en-us/dotnet/)
+  - Font Awesome: [Icons](https://fontawesome.com/v4/icons/)
+  - CodePen: [Online Editor](https://codepen.io/)
 ____________________________________________________________________________________
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
