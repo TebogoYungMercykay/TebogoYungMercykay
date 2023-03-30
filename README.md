@@ -41,7 +41,7 @@ ________________________________________________________________________________
     - JSON:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [Bad: Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
-    - HTML & CSS
+    - HTML & CSS:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [For Fun: Simple Web App](https://github.com/TebogoYungMercykay/Simple_Web_App.git)
     - Bootstrap: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
@@ -50,7 +50,6 @@ ________________________________________________________________________________
 - databases and Tools
   - Learned from School: phpMyAdmin and MySQL.
   - Additional: MongoDB, NeDB and PostgreSQL.
-
 #### <p align=center>Create a Todo. Serverless.</p>
 ```Typescript
   async createToDo(todoItem: TodoItem): Promise<TodoItem>{
@@ -102,7 +101,6 @@ ________________________________________________________________________________
 - Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
 - Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
 ____________________________________________________________________________________
-
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
-  ____________________________________________________________________________________
+____________________________________________________________________________________
