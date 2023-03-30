@@ -13,10 +13,44 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 - I am well organized and always plan ahead to make sure I manage my time well.
 ____________________________________________________________________________________
 ## SKILLS
-- Proficient languages and Frameworks: C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX. 
+- Proficient languages and Frameworks
+  - C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX.
+  - Repositories Where The Languages Are Put To Use:
+    - C++:
+      - [Basic Puzzle Survival Game: Runs on Terminal](https://github.com/TebogoYungMercykay/Basic_Puzzle_Survival_Game_In_CPP.git)
+      - [Towers Of Hanoi: Recursion And STL Stacks](https://github.com/TebogoYungMercykay/Towers_Of_Hanoi----Recursion_And_STL_Stacks.git)
+      - [Procedural Programming](https://github.com/TebogoYungMercykay/CPP---Procedural-Programming.git)
+      - [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
+    - Java:
+      - [Sudoku Puzzle Solver: 3D Sparce Tables & Linked Lists](https://github.com/TebogoYungMercykay/Sudoku-Puzzle-In-Java__Sparce-Tables.git)
+      - [Binary Search Tree: Simple Travesals and Recursion](https://github.com/TebogoYungMercykay/Binary-Search-Tree--Simple-Travesals--and-Recursion.git)
+      - [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
+    - PHP:
+      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+      - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
+    - Python 3: [Jupyter Notebook](https://github.com/TebogoYungMercykay/Python3---Jupyter_Notebook.git)
+    - JavaScript:
+      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+      - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
+    - C#: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
+    - Typescript, Ionic and NodeJs:
+      - [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
+      - [Cloud Dev Project 3](https://github.com/TebogoYungMercykay/Project-3---Refactor-Monolith-to-Microservices-and-Deploy.git)
+      - [Cloud Dev Project 2](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
+    - Angular: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
+    - JSON:
+      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+      - [Bad: Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
+    - HTML & CSS
+      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+      - [For Fun: Simple Web App](https://github.com/TebogoYungMercykay/Simple_Web_App.git)
+    - Bootstrap: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
 - Operating Systems: Linux and Windows 
 - Terminals: CMD, Bash, WSL, PowerShell, Ubuntu, and many more. 
-- databases: MongoDB, NeDB, phpMyAdmin, PostgreSQL and MySQL. 
+- databases and Tools
+  - Learned from School: phpMyAdmin and MySQL.
+  - Additional: MongoDB, NeDB and PostgreSQL.
+
 #### <p align=center>Create a Todo. Serverless.</p>
 ```Typescript
   async createToDo(todoItem: TodoItem): Promise<TodoItem>{
