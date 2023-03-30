@@ -59,14 +59,14 @@ ________________________________________________________________________________
 - Email: sbkskhalo.kq@gmail.com
 ____________________________________________________________________________________
 ## Links
-- LinkedIn: https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/
-- BabyPips: https://www.babypips.com/learn
-- The CS50: https://www.youtube.com/@cs50
-- Chess.com: https://www.chess.com/member/yungmercykay
-- Lichess.org: https://lichess.org/@/UberKidmodeEats
-- Chess Network: https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp
-- Online Compiler: https://www.onlinegdb.com/online_java_compiler
-- Crash Course Computer Sciences: https://youtu.be/tpIctyqH29Q
+- LinkedIn Profile: [sello-selepe-tebogoyungmercykay](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
+- Trading: [BabyPips](https://www.babypips.com/learn)
+- The CS50: [YouTube](https://www.youtube.com/@cs50)
+- Chess.com: [My Chess Account](https://www.chess.com/member/yungmercykay)
+- Lichess.org: [My Chess Account](https://lichess.org/@/UberKidmodeEats)
+- Chess Network: [YouTube](https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
+- Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
+- Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
 ____________________________________________________________________________________
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
