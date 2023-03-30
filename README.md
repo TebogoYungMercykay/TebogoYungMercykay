@@ -34,6 +34,12 @@ ________________________________________________________________________________
   ## Studies
 - I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
+  - Certificate: [Cloud Developer](confirm.udacity.com/42RW4A3C)
+  - Project 1: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
+  - Project 2: [Udagram Image Filtering Microservice Project](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
+  - Project 3: [Refactor A Monolith To Microservices and Deploy](https://github.com/TebogoYungMercykay/Project-3---Refactor-Monolith-to-Microservices-and-Deploy.git)
+  - Project 4: ["TODO" Application using AWS Lambda and Serverless Framework](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git) 
+  - Resources: [Udacity/Cloud Developer](https://github.com/udacity/cloud-developer.git)
 
 ____________________________________________________________________________________
 ## Employment
