@@ -74,7 +74,7 @@ ________________________________________________________________________________
 ```
 ____________________________________________________________________________________
   ## Studies
-- I’m currently studying Computer Sciences @ The University Of Prtetoria(UP)
+- I'm currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
   - Certificate: [Cloud Developer](confirm.udacity.com/42RW4A3C)
   - Project 1: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
