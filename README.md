@@ -99,13 +99,13 @@ ________________________________________________________________________________
 ## Contacts
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
+- LinkedIn Profile: [sello-selepe-tebogoyungmercykay](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 ____________________________________________________________________________________
 ## Links
-- LinkedIn Profile: [sello-selepe-tebogoyungmercykay](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 - Trading: [BabyPips](https://www.babypips.com/learn)
 - The CS50: [YouTube](https://www.youtube.com/@cs50)
-- Chess.com: [My Chess Account](https://www.chess.com/member/yungmercykay)
-- Lichess.org: [My Chess Account](https://lichess.org/@/UberKidmodeEats)
+- Chess.com: [My Chess.com Account](https://www.chess.com/member/yungmercykay)
+- Lichess.org: [My Lichess.org Account](https://lichess.org/@/UberKidmodeEats)
 - Chess Network: [YouTube](https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
 - Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
 - Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
