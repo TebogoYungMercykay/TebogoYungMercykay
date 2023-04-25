@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Console&weight=900&size=30&duration=4000&pause=1000&color=1A191C51&width=500&lines=Hi+There;I+Am+Selepe+Sello+(Tebogo);But+You+Can+Just+Call+Me+Tebogo!!;Nice+To+Meet+You)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Console&weight=900&size=30&duration=4000&pause=1000&color=2C84B7&width=500&lines=Hi+There;I+Am+Selepe+Sello+(Tebogo);But+You+Can+Just+Call+Me+Tebogo!!;Nice+To+Meet+You)](https://git.io/typing-svg)
 ---
 
 <p align=center><img src="Image5.jfif" height="auto" width="200"></p>
