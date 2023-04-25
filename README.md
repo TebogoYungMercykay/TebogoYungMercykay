@@ -1,7 +1,18 @@
-____________________________________________________________________________________
+---
+
 <p align=center><img src="Image5.jfif" height="auto" width="200"></p>
 
-____________________________________________________________________________________
+```mermaid
+graph TD;
+    Personal-Profile-->Introduction;
+    Personal-Profile-->Skills;
+    Personal-Profile-->Studies;
+    Personal-Profile-->Employment;
+    Personal-Profile-->Contacts;
+    Personal-Profile-->Links;
+   ```
+---
+
 # <p align=center>Personal Profile</p>
 
 I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
@@ -11,7 +22,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 - I also work well on my own as I like to set myself goals which I will achieve. 
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
-____________________________________________________________________________________
+---
 ## SKILLS
 - Proficient languages and Frameworks
   - C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX.
@@ -72,7 +83,7 @@ ________________________________________________________________________________
         return todoItem as TodoItem;
   }
 ```
-____________________________________________________________________________________
+---
   ## Studies
 - I'm currently studying Computer Sciences @ The University Of Prtetoria(UP)
 - I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
@@ -83,7 +94,7 @@ ________________________________________________________________________________
   - Project 4: ["TODO" Application using AWS Lambda and Serverless Framework](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git) 
   - Resources: [Udacity/Cloud Developer](https://github.com/udacity/cloud-developer.git)
 
-____________________________________________________________________________________
+---
 ## Employment
 - Computer Laboratory Technician
 - Part-Time at the Mamelodi IT Labs (University of Pretoria)
@@ -95,12 +106,12 @@ ________________________________________________________________________________
   - Live Casting
   - Sever Casting
   - Microsoft Office
-____________________________________________________________________________________
+---
 ## Contacts
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 - LinkedIn Profile: [sello-selepe-tebogoyungmercykay](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
-____________________________________________________________________________________
+---
 ## Links
 - Trading: [BabyPips](https://www.babypips.com/learn)
 - The CS50: [YouTube](https://www.youtube.com/@cs50)
@@ -119,7 +130,7 @@ ________________________________________________________________________________
   - Font Awesome: [Icons](https://fontawesome.com/v4/icons/)
   - CodePen: [Online Editor](https://codepen.io/)
   - Tutorialspoint: [Tutorials](https://www.tutorialspoint.com/)
-____________________________________________________________________________________
+---
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
-____________________________________________________________________________________
+---
