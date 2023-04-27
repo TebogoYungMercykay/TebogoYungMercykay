@@ -1,12 +1,10 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=40&duration=1900&pause=700&color=69F7F5&center=true&vCenter=true&width=863&lines=Hi+there%2C+HERO.;I+Am+A+Developer!;But+You+Can+Just+Call+Me+Tebogo.;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
 ---
-
 <p align=center><img src="Image5.jfif" height="auto" width="150"></p>
-
-<div align=center>
-[![](https://mermaid.ink/img/pako:eNp9kcFqwzAMhl-l6JyUJMvqxoVd1h4KGxS608jFxOpqYlvBUWBZyLvPa9mx0Um_9EmgXxM0pBEkfAXVXVcf-13tVzFOGHryyqanQBdjMU1fjp4D6aFhQ_4xdW6Ntf1CnwdtcAE4uM7S6NDzY-aVPKuGF7a8Gd_2O0jAYXDK6Hjh9AfXwFd0WIOMqVahraH2c-TUwHQefQOSw4AJDJ1WjHujojHuv9gp_0kU5UXZ_q5BTvANMs_WuSi2lSg3Iq-KMoER5FasM1HllXgunkqxycScwM9tPk8AtWEK73f3b0-YfwFeZ4Dg?type=png)](https://mermaid.live/edit#pako:eNp9kcFqwzAMhl-l6JyUJMvqxoVd1h4KGxS608jFxOpqYlvBUWBZyLvPa9mx0Um_9EmgXxM0pBEkfAXVXVcf-13tVzFOGHryyqanQBdjMU1fjp4D6aFhQ_4xdW6Ntf1CnwdtcAE4uM7S6NDzY-aVPKuGF7a8Gd_2O0jAYXDK6Hjh9AfXwFd0WIOMqVahraH2c-TUwHQefQOSw4AJDJ1WjHujojHuv9gp_0kU5UXZ_q5BTvANMs_WuSi2lSg3Iq-KMoER5FasM1HllXgunkqxycScwM9tPk8AtWEK73f3b0-YfwFeZ4Dg)
-</div>
+<p align="center">
+  <img src="./mermaid-diagram.svg" />
+</p>
 ---
 
 # <p align=center>Personal Profile</p>
