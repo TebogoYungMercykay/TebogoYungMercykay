@@ -1,8 +1,8 @@
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Console&weight=900&size=30&center=true&duration=4000&pause=1000&color=2C84B7&width=700&lines=Hi+There;I+Am+Selepe+Sello+(Tebogo);But+You+Can+Just+Call+Me+Tebogo!!;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=40&duration=1900&pause=700&color=69F7F5&center=true&vCenter=true&width=863&lines=Hi+there%2C+HERO.;I+Am+A+Developer!;But+You+Can+Just+Call+Me+Tebogo.;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
 ---
 
-<p align=center><img src="Image5.jfif" height="auto" width="200"></p>
+<p align=center><img src="Image5.jfif" height="auto" width="100"></p>
 
 ```mermaid
 graph TD;
