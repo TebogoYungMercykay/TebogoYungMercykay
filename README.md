@@ -4,15 +4,7 @@
 
 <p align=center><img src="Image5.jfif" height="auto" width="150"></p>
 
-```mermaid
-graph TD;
-    Personal-Profile-->Introduction;
-    Personal-Profile-->Skills;
-    Personal-Profile-->Studies;
-    Personal-Profile-->Employment;
-    Personal-Profile-->Contacts;
-    Personal-Profile-->Links;
-   ```
+[![](https://mermaid.ink/img/pako:eNp9kcFqwzAMhl-l6JyUJMvqxoVd1h4KGxS608jFxOpqYlvBUWBZyLvPa9mx0Um_9EmgXxM0pBEkfAXVXVcf-13tVzFOGHryyqanQBdjMU1fjp4D6aFhQ_4xdW6Ntf1CnwdtcAE4uM7S6NDzY-aVPKuGF7a8Gd_2O0jAYXDK6Hjh9AfXwFd0WIOMqVahraH2c-TUwHQefQOSw4AJDJ1WjHujojHuv9gp_0kU5UXZ_q5BTvANMs_WuSi2lSg3Iq-KMoER5FasM1HllXgunkqxycScwM9tPk8AtWEK73f3b0-YfwFeZ4Dg?type=png)](https://mermaid.live/edit#pako:eNp9kcFqwzAMhl-l6JyUJMvqxoVd1h4KGxS608jFxOpqYlvBUWBZyLvPa9mx0Um_9EmgXxM0pBEkfAXVXVcf-13tVzFOGHryyqanQBdjMU1fjp4D6aFhQ_4xdW6Ntf1CnwdtcAE4uM7S6NDzY-aVPKuGF7a8Gd_2O0jAYXDK6Hjh9AfXwFd0WIOMqVahraH2c-TUwHQefQOSw4AJDJ1WjHujojHuv9gp_0kU5UXZ_q5BTvANMs_WuSi2lSg3Iq-KMoER5FasM1HllXgunkqxycScwM9tPk8AtWEK73f3b0-YfwFeZ4Dg)
 ---
 
 # <p align=center>Personal Profile</p>
