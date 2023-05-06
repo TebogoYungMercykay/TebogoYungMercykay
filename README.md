@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=40&duration=1900&pause=700&color=69F7F5&center=true&vCenter=true&width=863&lines=Hi+there%2C+HERO.;I+Am+A+Developer!;But+You+Can+Just+Call+Me+Tebogo.;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
 ---
 <p align=center><img src="Image5.jfif" height="auto" width="150"><br><img src="./mermaid-diagram.svg"></p>
+
 # <p align=center>Personal Profile</p>
 
 I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
