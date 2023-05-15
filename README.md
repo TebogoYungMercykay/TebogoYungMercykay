@@ -121,6 +121,9 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
   - Font Awesome: [Icons](https://fontawesome.com/v4/icons/)
   - CodePen: [Online Editor](https://codepen.io/)
   - Tutorialspoint: [Tutorials](https://www.tutorialspoint.com/)
+  - Ionic Framework: [Documentation](https://ionicframework.com/docs/components)
+  - Angular: [Documentation](https://angular.io/docs)
+  - Web Sockets: [ws: a Node.js WebSocket library](https://www.npmjs.com/package/ws#external-https-serverwebsockets)
 ---
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
