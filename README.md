@@ -34,12 +34,16 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
     - JavaScript:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
+      - [The_Brand_Race_Game_Loop](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
     - C#: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
     - Typescript, Ionic and NodeJs:
+      - [The_Brand_Race_Local_NodeJs_Socket_Server](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
       - [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
       - [Cloud Dev Project 3](https://github.com/TebogoYungMercykay/Project-3---Refactor-Monolith-to-Microservices-and-Deploy.git)
       - [Cloud Dev Project 2](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
-    - Angular: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
+    - Angular:
+      - [Ionic_Angular_Native_Mobile_Application](https://github.com/TebogoYungMercykay/Ionic_Angular_Native_Mobile_Application.git)
+      - [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
     - JSON:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [Bad: Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
