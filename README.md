@@ -24,6 +24,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
       - [Procedural Programming](https://github.com/TebogoYungMercykay/CPP---Procedural-Programming.git)
       - [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
     - Java:
+      - [Relational Database Using Self-Organising Treaps](https://github.com/TebogoYungMercykay/Relational-Database_Using_Self-organizing_Treaps/tree/main)
       - [Sudoku Puzzle Solver: 3D Sparce Tables & Linked Lists](https://github.com/TebogoYungMercykay/Sudoku-Puzzle-In-Java__Sparce-Tables.git)
       - [Binary Search Tree: Simple Travesals and Recursion](https://github.com/TebogoYungMercykay/Binary-Search-Tree--Simple-Travesals--and-Recursion.git)
       - [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
