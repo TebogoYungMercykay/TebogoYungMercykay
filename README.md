@@ -36,7 +36,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
     - JavaScript:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
-      - [The_Brand_Race_Game_Loop](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
+      - [The Brand Race Game Loop and Client Side](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
     - C#: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
     - Typescript, Ionic and NodeJs:
       - [The_Brand_Race_Local_NodeJs_Socket_Server](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
