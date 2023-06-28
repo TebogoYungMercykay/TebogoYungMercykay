@@ -6,17 +6,17 @@
 
 # <p align=center>Personal Profile</p>
 
-I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
+I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
 
 - I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work.
 - I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with everyone I work with.
-- I also work well on my own as I like to set myself goals which I will achieve. 
+- I also work well on my own as I like to set myself goals that I will achieve. 
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 ---
 ## SKILLS
-- Proficient languages and Frameworks
-  - C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX.
+- Proficient in languages and Frameworks:
+  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX.
   - Repositories Where The Languages Are Put To Use:
     - C++:
       - [Basic Puzzle Survival Game: Runs on Terminal](https://github.com/TebogoYungMercykay/Basic_Puzzle_Survival_Game_In_CPP.git)
@@ -32,7 +32,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
     - PHP:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
-    - Python 3: [Jupyter Notebook](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
+    - Python 3: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
     - JavaScript:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
