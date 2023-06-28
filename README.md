@@ -32,7 +32,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
     - PHP:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
-    - Python 3: [Jupyter Notebook](https://github.com/TebogoYungMercykay/Python3---Jupyter_Notebook.git)
+    - Python 3: [Jupyter Notebook](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
     - JavaScript:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
