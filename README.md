@@ -1,7 +1,7 @@
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=40&duration=1900&pause=700&color=69F7F5&center=true&vCenter=true&width=863&lines=Hi+there%2C+HERO.;I+Am+A+Developer!;But+You+Can+Just+Call+Me+Tebogo.;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=40&duration=1900&pause=700&color=69F7F5&center=true&vCenter=true&width=863&lines=Hi+there%2C+HERO.;I+Am+Sello+Selepe!!;But+You+Can+Just+Call+Me+Tebogo.;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
 ---
-<p align=center><img src="Image5.jfif" height="auto" width="150"></p>
+<p align=center><img src="Joker_Rounded.png" height="auto" width="100%"></p>
 <!-- <p align=center><img src="Image5.jfif" height="auto" width="150"><br><img src="./mermaid-diagram.svg"></p> -->
 
 # <p align=center>Personal Profile</p>
@@ -15,8 +15,8 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
 - I am well organized and always plan ahead to make sure I manage my time well.
 ---
 ## SKILLS
-- Proficient in languages and Frameworks:
-  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX.
+- Proficient languages, Tools and Frameworks
+  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, AngularJS, JSON, Bootstrap, SQL, AJAX, HTML & CSS. MODERATE: React and Ionic
   - Repositories Where The Languages Are Put To Use:
     - C++:
       - [Basic Puzzle Survival Game: Runs on Terminal](https://github.com/TebogoYungMercykay/Basic_Puzzle_Survival_Game_In_CPP.git)
@@ -82,7 +82,7 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
 ```
 ---
   ## Studies
-- I'm currently studying Computer Sciences @ The University Of Prtetoria(UP)
+- I'm currently studying Computer Sciences @ The University Of Pretoria(UP)
 - I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
   - Certificate: [Cloud Developer](https://graduation.udacity.com/confirm/42RW4A3C)
   - Project 1: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
