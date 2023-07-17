@@ -10,13 +10,13 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 
 - I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work.
 - I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with everyone I work with.
-- I also work well on my own as I like to set myself goals which I will achieve. 
+- I also work well on my own as I like to set myself goals that I will achieve. 
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 ---
 ## SKILLS
-- Proficient languages and Frameworks
-  - C++, Java, Python, C#, JavaScript, PHP, NodeJS , Typescript, AngularJS, JSON, Bootstrap, HTML & CSS, SQL. MODERATE: React, Ionic and AJAX.
+- Proficient languages, Tools and Frameworks
+  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, AngularJS, JSON, Bootstrap, SQL, AJAX, HTML & CSS. MODERATE: React and Ionic
   - Repositories Where The Languages Are Put To Use:
     - C++:
       - [Basic Puzzle Survival Game: Runs on Terminal](https://github.com/TebogoYungMercykay/Basic_Puzzle_Survival_Game_In_CPP.git)
@@ -82,7 +82,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
 ```
 ---
   ## Studies
-- I'm currently studying Computer Sciences @ The University Of Prtetoria(UP)
+- I'm currently studying Computer Sciences @ The University Of Pretoria(UP)
 - I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
   - Certificate: [Cloud Developer](https://graduation.udacity.com/confirm/42RW4A3C)
   - Project 1: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
