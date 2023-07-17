@@ -6,7 +6,7 @@
 
 # <p align=center>Personal Profile</p>
 
-I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
+I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
 
 - I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work.
 - I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with everyone I work with.
@@ -32,7 +32,7 @@ I am a Full Stack Developer, Cloud Developer and Mentor at the University of Pre
     - PHP:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
-    - Python 3: [Jupyter Notebook](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
+    - Python 3: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
     - JavaScript:
       - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
       - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
