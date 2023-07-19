@@ -17,41 +17,17 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
 ## SKILLS
 - Proficient languages, Tools and Frameworks
   - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, AngularJS, JSON, Bootstrap, SQL, AJAX, HTML & CSS. MODERATE: React and Ionic
-  - Repositories Where The Languages Are Put To Use:
-    - C++:
-      - [Basic Puzzle Survival Game: Runs on Terminal](https://github.com/TebogoYungMercykay/Basic_Puzzle_Survival_Game_In_CPP.git)
-      - [Towers Of Hanoi: Recursion And STL Stacks](https://github.com/TebogoYungMercykay/Towers_Of_Hanoi----Recursion_And_STL_Stacks.git)
-      - [Procedural Programming](https://github.com/TebogoYungMercykay/CPP---Procedural-Programming.git)
-      - [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
-    - Java:
-      - [Relational Database Using Self-Organising Treaps](https://github.com/TebogoYungMercykay/Relational-Database_Using_Self-organizing_Treaps/tree/main)
-      - [Sudoku Puzzle Solver: 3D Sparce Tables & Linked Lists](https://github.com/TebogoYungMercykay/Sudoku-Puzzle-In-Java__Sparce-Tables.git)
-      - [Binary Search Tree: Simple Travesals and Recursion](https://github.com/TebogoYungMercykay/Binary-Search-Tree--Simple-Travesals--and-Recursion.git)
-      - [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
-      - [Hash Table and Hash Functions](https://github.com/TebogoYungMercykay/Hash_Functions/tree/main)
-    - PHP:
-      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-      - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
+  - Example Repositories Where The Languages Are Put To Use:
+    - C++: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
+    - Java: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
+    - PHP: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
     - Python 3: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
-    - JavaScript:
-      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-      - [COS221 Practical 5, Group: The Untouchables](https://github.com/TebogoYungMercykay/FullStack---COS221_Practical_5_Group_The_Untouchables.git)
-      - [The Brand Race Game Loop and Client Side](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
+    - JavaScript: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
     - C#: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
-    - Typescript, Ionic and NodeJs:
-      - [The_Brand_Race_Local_NodeJs_Socket_Server](https://github.com/TebogoYungMercykay/The_Brand_Race.git)
-      - [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
-      - [Cloud Dev Project 3](https://github.com/TebogoYungMercykay/Project-3---Refactor-Monolith-to-Microservices-and-Deploy.git)
-      - [Cloud Dev Project 2](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
-    - Angular:
-      - [Ionic_Angular_Native_Mobile_Application](https://github.com/TebogoYungMercykay/Ionic_Angular_Native_Mobile_Application.git)
-      - [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
-    - JSON:
-      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-      - [Bad: Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
-    - HTML & CSS:
-      - [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-      - [For Fun: Simple Web App](https://github.com/TebogoYungMercykay/Simple_Web_App.git)
+    - Typescript, Ionic, and NodeJs: [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
+    - Angular: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
+    - JSON: [Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
+    - HTML & CSS: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
     - Bootstrap: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
     - [Load More](https://github.com/TebogoYungMercykay?tab=repositories)
 - Operating Systems:
@@ -63,10 +39,10 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
   - WSL
   - PowerShell
   - Ubuntu
-  - Many more.... 
+  - Many more... 
 - databases and Tools
   - Learned from School: phpMyAdmin and MySQL.
-  - Additional: MongoDB, NeDB and PostgreSQL.
+  - Additional: MongoDB, NeDB, and PostgreSQL.
 #### <p align=center>Create a Todo. Serverless.</p>
 ```typescript
   async createToDo(todoItem: TodoItem): Promise<TodoItem>{
