@@ -16,7 +16,7 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
 ---
 ## SKILLS
 - Proficient languages, Tools and Frameworks
-  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, Angular, JSON, Bootstrap, SQL, AJAX, jQuery, ExpressJS, Markdown, HTML & CSS. MODERATE: React and Ionic
+  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, Angular, JSON, Bootstrap, SQL, AJAX, jQuery, ExpressJS, Markdown, Bootstrap, HTML & CSS. MODERATE: React and Ionic
   - Example Repositories Where The Languages Are Put To Use:
     - C++: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
     - Java: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
