@@ -3,9 +3,13 @@
 ---
 <p align=center><img src="Joker_Rounded.png" height="auto" width="100%"></p>
 <!-- <p align=center><img src="Image5.jfif" height="auto" width="150"><br><img src="./mermaid-diagram.svg"></p> -->
+
 ---
-### The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.
+
+### `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
+
 ---
+
 # <p align=center>Personal Profile</p>
 
 I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
