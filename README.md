@@ -99,7 +99,7 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
 - Chess Network: [YouTube](https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
 - Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
 - Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
-- ### Some Resources:
+- ## `Some Resources`:
   - STACK OVERFLOW: [Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
   - MDN Web Docs: [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web)
   - W3Schools: [Tutorials Dropdown](https://www.w3schools.com/)
