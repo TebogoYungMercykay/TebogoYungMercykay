@@ -6,13 +6,13 @@
 
 ---
 
-###### `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
+###### Amdahl's law: `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
 
 ---
 
 # <p align=center>Personal Profile</p>
 
-I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pretoria (STARS Mentorship). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
+I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pretoria (`STARS Mentorship`). Some of my skills include communicating effectively, computing, and Mathematical Modelling. Passionate about Chess, art, and design, I am also goal-oriented and result-oriented. 
 
 - I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work.
 - I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with everyone I work with.
@@ -20,33 +20,33 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
 - I have good listening and communication skills. I have a creative mind and am always up for new challenges.
 - I am well organized and always plan ahead to make sure I manage my time well.
 ---
-## SKILLS
-- Proficient languages, Tools and Frameworks
-  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, Angular, JSON, Bootstrap, SQL, AJAX, jQuery, ExpressJS, Markdown, Bootstrap, HTML & CSS. MODERATE: React and Ionic
+# `SKILLS`
+- `Proficient languages, Tools and Frameworks`:
+  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, Angular, JSON, Bootstrap, SQL, AJAX, jQuery, ExpressJS, Markdown, Bootstrap, HTML & CSS. `MODERATE`: React and Ionic
   - Example Repositories Where The Languages Are Put To Use:
-    - C++: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
-    - Java: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
-    - PHP: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - Python 3: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
-    - JavaScript: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - C#: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
-    - Typescript, Ionic, and NodeJs: [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
-    - Angular: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
-    - JSON: [Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
-    - HTML & CSS: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - Bootstrap: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+    - `C++`: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
+    - `Java`: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
+    - `PHP`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+    - `Python 3`: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
+    - `JavaScript`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+    - `C#`: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
+    - `Typescript, Ionic, and NodeJs`: [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
+    - `Angular`: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
+    - `JSON`: [Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
+    - `HTML & CSS`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+    - `Bootstrap`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
     - [Load More](https://github.com/TebogoYungMercykay?tab=repositories)
-- Operating Systems:
+- `Operating Systems`:
   - Linux
   - Windows 
-- Terminals:
+- `Terminals`:
   - CMD
   - Bash
   - WSL
   - PowerShell
   - Ubuntu
   - Many more... 
-- databases and Tools
+- `Databases and Tools`:
   - Learned from School: phpMyAdmin and MySQL.
   - Additional: MongoDB, NeDB, and PostgreSQL.
 #### <p align=center>Create a Todo. Serverless.</p>
@@ -63,21 +63,21 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
   }
 ```
 ---
-  ## Studies
-- I'm currently studying Computer Sciences @ The University Of Pretoria(UP)
-- I also completed the AWS Cloud Development Nanodegree Program by Udacity (ALX).
-  - Certificate: [Cloud Developer](https://graduation.udacity.com/confirm/42RW4A3C)
-  - Project 1: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
-  - Project 2: [Udagram Image Filtering Microservice Project](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
-  - Project 3: [Refactor A Monolith To Microservices and Deploy](https://github.com/TebogoYungMercykay/Project-3---Refactor-Monolith-to-Microservices-and-Deploy.git)
-  - Project 4: ["TODO" Application using AWS Lambda and Serverless Framework](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git) 
-  - Resources: [Udacity/Cloud Developer](https://github.com/udacity/cloud-developer.git)
+  # `Studies`
+- I'm currently studying `Computer Sciences` @ The University Of Pretoria(UP)
+- I also completed the `AWS Cloud Development` Nanodegree Program by Udacity (ALX).
+  - `Certificate`: [Cloud Developer](https://graduation.udacity.com/confirm/42RW4A3C)
+  - `Project 1`: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
+  - `Project 2`: [Udagram Image Filtering Microservice Project](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
+  - `Project 3`: [Refactor A Monolith To Microservices and Deploy](https://github.com/TebogoYungMercykay/Project-3---Refactor-Monolith-to-Microservices-and-Deploy.git)
+  - `Project 4`: ["TODO" Application using AWS Lambda and Serverless Framework](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git) 
+  - `Resources`: [Udacity/Cloud Developer](https://github.com/udacity/cloud-developer.git)
 
 ---
-## Employment
+# `Employment`
 - Computer Laboratory Technician
-- Part-Time at the Mamelodi IT Labs (University of Pretoria)
-- Skills Used:
+- `Part-Time` at the Mamelodi IT Labs (University of Pretoria)
+- `Skills Used`:
   - Software Installation
   - Hardware Installation
   - Computer Hardware Assembly
@@ -86,12 +86,12 @@ I am a Full Stack Developer, Cloud Developer, and Mentor at the University of Pr
   - Sever Casting
   - Microsoft Office
 ---
-## Contacts
+# `Contacts`
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
-- LinkedIn Profile: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
+- `LinkedIn Profile`: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 ---
-## Links
+# `Links`
 - Trading: [BabyPips](https://www.babypips.com/learn)
 - The CS50: [YouTube](https://www.youtube.com/@cs50)
 - Chess.com: [My Chess.com Account](https://www.chess.com/member/yungmercykay)
