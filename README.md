@@ -6,7 +6,7 @@
 
 ---
 
-### `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
+###### `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
 
 ---
 
