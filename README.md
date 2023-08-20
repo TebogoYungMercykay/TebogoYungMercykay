@@ -29,7 +29,7 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
             "Back-End Frameworks and Libraries": ["Node.js", "Express.js"],
             "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
             "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL"],
-            "AWS Services": ["AWS", "S3 Bucket", "IAM (Identity and Access Management)", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS Identity and Access Management (AWS IAM)"],
+            "AWS Services": ["AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"],
             "Development Tools": ["phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)", "CircleCI"],
             "Terminals": ["CMD", "Bash", "WSL", "PowerShell", "Ubuntu"]
         }
@@ -41,7 +41,7 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
 - `Back-End Frameworks and Libraries:`: Node.js, Express.js
 - `Web Technologies:`: JSON, AJAX, HTML & CSS, Markdown, Socket.io
 - `Database and Query Languages:`: MySQL, MongoDB, NeDB, PostgreSQL
-- `AWS Services:`: AWS, S3 Bucket, IAM (Identity and Access Management), DynamoDB, AWS Lambda, XRAY, API Gateway, AWS Elastic Beanstalk, Amazon EC2, AWS CloudFormation, AWS Identity and Access Management (AWS IAM)
+- `AWS Services:`: AWS, S3 Bucket, DynamoDB, AWS Lambda, XRAY, API Gateway, AWS Elastic Beanstalk, Amazon EC2, AWS CloudFormation, AWS IAM (AWS Identity and Access Management)
 - `Development Tools:`: phpMyAdmin, Docker, Continuous Integration and Continuous Delivery (CI/CD), CircleCI
 - `Terminals`: CMD, Bash, WSL, PowerShell, Ubuntu -->
 
