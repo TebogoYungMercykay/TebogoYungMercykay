@@ -21,49 +21,61 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
 - I am well organized and always plan ahead to make sure I manage my time well.
 ---
 # `SKILLS`
-- `Proficient languages, Tools and Frameworks`:
-  - C++, Java, Python, C#, JavaScript, PHP, NodeJS, Typescript, Angular, JSON, Bootstrap, SQL, AJAX, jQuery, ExpressJS, Markdown, Bootstrap, HTML & CSS. `MODERATE`: React and Ionic
-  - Example Repositories Where The Languages Are Put To Use:
-    - `C++`: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
-    - `Java`: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
-    - `PHP`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - `Python 3`: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
-    - `JavaScript`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - `C#`: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
-    - `Typescript, Ionic, and NodeJs`: [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
-    - `Angular`: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
-    - `JSON`: [Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
-    - `HTML & CSS`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - `Bootstrap`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
-    - [Load More](https://github.com/TebogoYungMercykay?tab=repositories)
-- `Operating Systems`:
-  - Linux
-  - Windows 
-- `Terminals`:
-  - CMD
-  - Bash
-  - WSL
-  - PowerShell
-  - Ubuntu
-  - Many more... 
-- `Databases and Tools`:
-  - Learned from School: phpMyAdmin and MySQL.
-  - Additional: MongoDB, NeDB, and PostgreSQL.
-#### <p align=center>Create a Todo. Serverless.</p>
-```typescript
-  async createToDo(todoItem: TodoItem): Promise<TodoItem>{
-        console.log("Creating new todo");
-        const params = { 
-            todo_Table: this.todosTable, 
-            Item: todoItem,
-        };
-        const result = await this.documentClient.put(params).promise();
-        logger.info('User created a todo', {result})
-        return todoItem as TodoItem;
-  }
-```
+-   ```json
+    {
+        "Proficient": {
+            "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
+            "Front-End Frameworks and Libraries": ["Angular", "React", "Ionic", "Bootstrap", "jQuery"],
+            "Back-End Frameworks and Libraries": ["Node.js", "Express.js"],
+            "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
+            "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL"],
+            "AWS Services": ["AWS", "S3 Bucket", "IAM (Identity and Access Management)", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS Identity and Access Management (AWS IAM)"],
+            "Development Tools": ["phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)", "CircleCI"],
+            "Terminals": ["CMD", "Bash", "WSL", "PowerShell", "Ubuntu"]
+        }
+    }
+    ```
+
+<!-- - `Languages`: C++, Java, Python, JavaScript, C#, PHP, Node.js, Typescript.
+- `Front-End Frameworks and Libraries:`: Angular, React, Ionic, Bootstrap, jQuery
+- `Back-End Frameworks and Libraries:`: Node.js, Express.js
+- `Web Technologies:`: JSON, AJAX, HTML & CSS, Markdown, Socket.io
+- `Database and Query Languages:`: MySQL, MongoDB, NeDB, PostgreSQL
+- `AWS Services:`: AWS, S3 Bucket, IAM (Identity and Access Management), DynamoDB, AWS Lambda, XRAY, API Gateway, AWS Elastic Beanstalk, Amazon EC2, AWS CloudFormation, AWS Identity and Access Management (AWS IAM)
+- `Development Tools:`: phpMyAdmin, Docker, Continuous Integration and Continuous Delivery (CI/CD), CircleCI
+- `Terminals`: CMD, Bash, WSL, PowerShell, Ubuntu -->
+
+- #### <p align=center>Create a Todo. Serverless.</p>
+    ```typescript
+    async createToDo(todoItem: TodoItem): Promise<TodoItem>{
+            console.log("Creating new todo");
+            const params = { 
+                todo_Table: this.todosTable, 
+                Item: todoItem,
+            };
+            const result = await this.documentClient.put(params).promise();
+            logger.info('User created a todo', {result})
+            return todoItem as TodoItem;
+    }
+    ```
+
+- ### `Example Repositories Where The Skills Are Put To Use`:
+  - `C++`: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
+  - `Java`: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
+  - `PHP`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+  - `Python 3`: [Python_Codes_for_Mathematical_Problem_Solving](https://github.com/TebogoYungMercykay/Python_Codes_for_Mathematical_Problem_Solving.git)
+  - `JavaScript`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+  - `C#`: [Windows Forms App, .Net Framework](https://github.com/TebogoYungMercykay/CSharp---Windows_Forms_App.git)
+  - `Typescript, Ionic, and NodeJs`: [Cloud Dev Project 4](https://github.com/TebogoYungMercykay/Project-4---Building-Serverless-Project-in-Aws.git)
+  - `Angular`: [Angular Web App - Frontend](https://github.com/TebogoYungMercykay/FrontEnd---Angular-Web-App-Monkey-And-River_Hackathon.git)
+  - `JSON`: [Straw Hats Heritage Hackathon](https://github.com/TebogoYungMercykay/The_Straw_Hat_Heritage_Hackathon.git)
+  - `HTML & CSS`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+  - `Bootstrap`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
+  - [Load More](https://github.com/TebogoYungMercykay?tab=repositories)
+
 ---
-  # `Studies`
+# `STUDIES`
+
 - I'm currently studying `Computer Sciences` @ The University Of Pretoria(UP)
 - I also completed the `AWS Cloud Development` Nanodegree Program by Udacity (ALX).
   - `Certificate`: [Cloud Developer](https://graduation.udacity.com/confirm/42RW4A3C)
@@ -74,7 +86,7 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
   - `Resources`: [Udacity/Cloud Developer](https://github.com/udacity/cloud-developer.git)
 
 ---
-# `Employment`
+# `EMPLOYMENT`
 - Computer Laboratory Technician
 - `Part-Time` at the Mamelodi IT Labs (University of Pretoria)
 - `Skills Used`:
@@ -86,12 +98,12 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
   - Sever Casting
   - Microsoft Office
 ---
-# `Contacts`
+# `CONTACTS`
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 - `LinkedIn Profile`: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 ---
-# `Links`
+# `LINKS`
 - Trading: [BabyPips](https://www.babypips.com/learn)
 - The CS50: [YouTube](https://www.youtube.com/@cs50)
 - Chess.com: [My Chess.com Account](https://www.chess.com/member/yungmercykay)
@@ -99,7 +111,7 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
 - Chess Network: [YouTube](https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
 - Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
 - Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
-- ## `Some Resources`:
+- ## `SOME RESOURCES`:
   - STACK OVERFLOW: [Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
   - MDN Web Docs: [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web)
   - W3Schools: [Tutorials Dropdown](https://www.w3schools.com/)
