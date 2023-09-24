@@ -25,25 +25,16 @@ I am an emerging Software Engineer/Developer, Cloud Developer, and Mentor at the
     {
         "Proficient": {
             "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
-            "Front-End Frameworks and Libraries": ["Angular", "React", "Ionic", "Bootstrap", "jQuery"],
+            "Front-End Frameworks and Libraries": ["Angular", "React", "Ionic", "Bootstrap", "jQuery", "NextJS"],
             "Back-End Frameworks and Libraries": ["Node.js", "Express.js"],
             "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
-            "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL"],
+            "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
             "AWS Services": ["AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"],
-            "Development Tools": ["phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)", "CircleCI"],
+            "Development Tools": ["phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)", "CircleCI", "SSMS"],
             "Terminals": ["CMD", "Bash", "WSL", "PowerShell", "Ubuntu"]
         }
     }
     ```
-
-<!-- - `Languages`: C++, Java, Python, JavaScript, C#, PHP, Node.js, Typescript.
-- `Front-End Frameworks and Libraries:`: Angular, React, Ionic, Bootstrap, jQuery
-- `Back-End Frameworks and Libraries:`: Node.js, Express.js
-- `Web Technologies:`: JSON, AJAX, HTML & CSS, Markdown, Socket.io
-- `Database and Query Languages:`: MySQL, MongoDB, NeDB, PostgreSQL
-- `AWS Services:`: AWS, S3 Bucket, DynamoDB, AWS Lambda, XRAY, API Gateway, AWS Elastic Beanstalk, Amazon EC2, AWS CloudFormation, AWS IAM (AWS Identity and Access Management)
-- `Development Tools:`: phpMyAdmin, Docker, Continuous Integration and Continuous Delivery (CI/CD), CircleCI
-- `Terminals`: CMD, Bash, WSL, PowerShell, Ubuntu -->
 
 - #### <p align=center>Create a Todo. Serverless.</p>
     ```typescript
