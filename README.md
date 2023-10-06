@@ -4,8 +4,6 @@
 <p align=center><img src="Joker_Rounded.png" height="auto" width="100%"></p>
 <!-- <p align=center><img src="Image5.jfif" height="auto" width="150"><br><img src="./mermaid-diagram.svg"></p> -->
 
----
-
 - Amdahl's law: `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
 - Joyner Lucas: `Don't ever SAY what you Gon' DO Unless you following through, ...I'm talking EXECUTION.`
 
