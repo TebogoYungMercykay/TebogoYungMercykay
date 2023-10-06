@@ -6,8 +6,8 @@
 
 ---
 
-Amdahl's law: `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
-Joyner Lucas: `Don't ever SAY what you Gon' DO Unless you following through, ...I'm talking EXECUTION.`
+- Amdahl's law: `The extent to which we can speed up a complex job is limited by how much of the job must be executed sequentially.`
+- Joyner Lucas: `Don't ever SAY what you Gon' DO Unless you following through, ...I'm talking EXECUTION.`
 
 ---
 
