@@ -87,7 +87,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
 
 # `LINKS`
 
-- ### `Example Repositories Where The Skills Mentioned Above Are Put To Use`:
+- #### `Example Repositories Where The Skills Mentioned Above Are Put To Use`:
   - `C++`: [Object Orientated Programming](https://github.com/TebogoYungMercykay/CPP---Object-Orientated-Programming.git)
   - `Java`: [Data Structures and Algorithms](https://github.com/TebogoYungMercykay/Java---Data_Structures_And_Algorithms-.git)
   - `PHP`: [The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)
@@ -102,7 +102,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
   - [Load More](https://github.com/TebogoYungMercykay?tab=repositories)
 
 
-- ### `Some Important Resources and Links`: 
+- #### `Some Important Resources and Links`: 
   - Trading: [BabyPips](https://www.babypips.com/learn)
   - The CS50: [YouTube](https://www.youtube.com/@cs50)
   - Chess.com: [My Chess.com Account](https://www.chess.com/member/yungmercykay)
@@ -110,7 +110,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
   - Chess Network: [YouTube](https://youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
   - Online Compiler: [GDB-Compiler](https://www.onlinegdb.com/online_java_compiler)
   - Crash Course Computer Sciences: [YouTube](https://youtu.be/tpIctyqH29Q)
-  - ## `SOME RESOURCES`:
+  - #### `SOME RESOURCES`:
     - STACK OVERFLOW: [Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
     - MDN Web Docs: [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web)
     - W3Schools: [Tutorials Dropdown](https://www.w3schools.com/)
