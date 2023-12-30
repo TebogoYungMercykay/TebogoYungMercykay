@@ -54,8 +54,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
 # `STUDIES`
 
 - I'm currently studying `Computer Sciences` @ The University Of Pretoria(UP)
-- I also completed the `AWS Cloud Development` Nanodegree Program by Udacity (ALX).
-  - Companies embrace cloud computing for innovation and cost reduction. I enrolled in Udacity's Cloud Development Nanodegree (ALX-Cloud-Development) to earn cloud computing skills.
+- I also completed the `AWS Cloud Development` Nanodegree Program by Udacity (ALX). Companies embrace cloud computing for innovation and cost reduction. Hence I enrolled in Udacity's Cloud Development Nanodegree (ALX-Cloud-Development) just so I could earn cloud computing skills.
   - `Certificate`: [Cloud Developer](https://graduation.udacity.com/confirm/42RW4A3C)
   - `Project 1`: [Deploy A Static Website On AWS](https://github.com/TebogoYungMercykay/Project-1---ALX-T-Cloud-Developer---Deploy-Static-Website-on-AWS.git)
   - `Project 2`: [Udagram Image Filtering Microservice Project](https://github.com/TebogoYungMercykay/Project-2---Image-Filter-Microservice.git)
