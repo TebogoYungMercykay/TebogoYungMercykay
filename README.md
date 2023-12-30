@@ -1,6 +1,9 @@
 ---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=40&duration=1900&pause=700&color=69F7F5&center=true&vCenter=true&width=863&lines=Hi+there%2C+HERO.;I+Am+Sello+Selepe!!;But+You+Can+Just+Call+Me+Tebogo.;Nice+To+Meet+You+(*_*))](https://git.io/typing-svg)
+
 ---
+
 <p align=center><img src="Joker_Rounded.png" height="auto" width="100%"></p>
 <!-- <p align=center><img src="Image5.jfif" height="auto" width="150"><br><img src="./mermaid-diagram.svg"></p> -->
 
@@ -14,7 +17,7 @@ I am a versatile Software Engineer/Developer and ALX Cloud Developer, driven by 
 
 Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspire aspiring minds on their educational and professional journeys. As Martin Luther King, Jr. once said, "Life's most persistent and urgent question is, what are you doing for others?" Mentoring is a way to contribute to others by dedicating yourself to your mentee's well-being. Since I enrolled in the STARS mentorship, I have a better appreciation for the importance of mentorship.
 
---
+---
 
 # `SKILLS`
 -   ```json
@@ -61,6 +64,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
   - `Resources`: [Udacity/Cloud Developer](https://github.com/udacity/cloud-developer.git)
 
 ---
+
 # `EMPLOYMENT`
 - Computer Laboratory Technician
 - `Part-Time` at the Mamelodi IT Labs (University of Pretoria)
@@ -72,11 +76,14 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
   - Live Casting
   - Sever Casting
   - Microsoft Office
+
 ---
+
 # `CONTACTS`
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 - `LinkedIn Profile`: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
+
 ---
 
 # `LINKS`
