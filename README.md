@@ -30,7 +30,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
             "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
             "AWS Services": ["AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"],
             "Development Tools": ["phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)", "CircleCI", "SSMS"],
-            "Terminals": ["CMD", "Bash", "WSL", "PowerShell", "Ubuntu"]
+            "Terminals": ["CMD", "Kali Linux", "Bash", "WSL", "PowerShell", "Ubuntu"]
         }
     }
     ```
