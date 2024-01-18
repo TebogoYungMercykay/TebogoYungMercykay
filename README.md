@@ -13,7 +13,7 @@
 
 # <p align=center>Personal Profile</p>
 
-I am a versatile Software Engineer/Developer and ALX Cloud Developer, driven by a passion for problem-solving and the practical application of technology to address real-world challenges. Beyond technology, I find joy in chess, art, and design, constantly nurturing my strategic thinking and creative Portfolio. I thrive on leveraging my diverse interests and expertise to make a meaningful impact through innovative solutions.
+I am a versatile Software Engineer/Developer and AWS Cloud Developer, driven by a passion for problem-solving and the practical application of technology to address real-world challenges. Beyond technology, I find joy in chess, art, and design, constantly nurturing my strategic thinking and creative Portfolio. I thrive on leveraging my diverse interests and expertise to make a meaningful impact through innovative solutions.
 
 Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspire aspiring minds on their educational and professional journeys. As Martin Luther King, Jr. once said, "Life's most persistent and urgent question is, what are you doing for others?" Mentoring is a way to contribute to others by dedicating yourself to your mentee's well-being. Since I enrolled in the STARS mentorship, I have a better appreciation for the importance of mentorship.
 
@@ -25,12 +25,12 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
         "Proficient": {
             "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
             "Front-End Frameworks and Libraries": ["Angular", "React", "Ionic", "Bootstrap", "jQuery", "NextJS", "Tailwind CSS"],
-            "Back-End Frameworks and Libraries": ["Node.js", "Express.js"],
+            "Back-End Frameworks and Libraries": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
             "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
             "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
             "AWS Services": ["AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"],
             "Development Tools": ["phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)", "CircleCI", "SSMS"],
-            "Terminals": ["CMD", "Bash", "WSL", "PowerShell", "Ubuntu"]
+            "Terminals": ["CMD", "Kali Linux", "Bash", "WSL", "PowerShell", "Ubuntu"]
         }
     }
     ```
