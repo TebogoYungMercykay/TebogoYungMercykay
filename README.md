@@ -25,7 +25,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
         "Proficient": {
             "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
             "Front-End Frameworks and Libraries": ["Angular", "React", "Ionic", "Bootstrap", "jQuery", "NextJS", "Tailwind CSS"],
-            "Back-End Frameworks and Libraries": ["Node.js", "Express.js"],
+            "Back-End Frameworks and Libraries": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
             "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
             "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
             "AWS Services": ["AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY", "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2", "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"],
