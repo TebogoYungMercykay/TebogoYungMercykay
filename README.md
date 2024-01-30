@@ -22,16 +22,16 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
 # `SKILLS`
 -   ```python
     import json
-    
+
     proficient_json = json.dumps({
         "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
-        "Front-End Frameworks and Libraries": [
+        "Front-End  Tools": [
             "Angular", "React", "Ionic", "Bootstrap",
             "jQuery", "NextJS", "Tailwind CSS"
         ],
-        "Back-End Frameworks and Libraries": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
+        "Back-End Tools": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
         "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
-        "Database and Query Languages": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
+        "Databases": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
         "AWS Services": [
             "AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY",
             "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2",
