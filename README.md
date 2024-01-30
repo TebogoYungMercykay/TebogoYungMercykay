@@ -20,45 +20,46 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
 ---
 
 # `SKILLS`
--   ```python
-    import json
+```python
+import json
 
-    proficient_json = json.dumps({
-        "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
-        "Front-End  Tools": [
-            "Angular", "React", "Ionic", "Bootstrap",
-            "jQuery", "NextJS", "Tailwind CSS"
-        ],
-        "Back-End Tools": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
-        "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
-        "Databases": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
-        "AWS Services": [
-            "AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY",
-            "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2",
-            "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"
-        ],
-        "Development Tools": [
-            "phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)",
-            "CircleCI", "SSMS"
-        ],
-        "Terminals": ["CMD", "Kali Linux", "Bash", "WSL", "PowerShell", "Ubuntu"],
-        "Web Frameworks": ["Django", "Flask", "Node.js with Express", "PHP"]
-    }, indent=4)
-    ```
+proficient_json = json.dumps({
+    "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
+    "Front-End  Tools": [
+        "Angular", "React", "Ionic", "Bootstrap",
+        "jQuery", "NextJS", "Tailwind CSS"
+    ],
+    "Back-End Tools": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
+    "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
+    "Databases": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
+    "AWS Services": [
+        "AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY",
+        "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2",
+        "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"
+    ],
+    "Development Tools": [
+        "phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)",
+        "CircleCI", "SSMS"
+    ],
+    "Terminals": ["CMD", "Kali Linux", "Bash", "WSL", "PowerShell", "Ubuntu"],
+    "Web Frameworks": ["Django", "Flask", "Node.js with Express", "PHP"]
+}, indent=4)
+```
 
-- #### <p align=center>Create a Todo. Serverless.</p>
-    ```typescript
-    async createToDo(todoItem: TodoItem): Promise<TodoItem>{
-            console.log("Creating new todo");
-            const params = { 
-                todo_Table: this.todosTable, 
-                Item: todoItem,
-            };
-            const result = await this.documentClient.put(params).promise();
-            logger.info('User created a todo', {result})
-            return todoItem as TodoItem;
-    }
-    ```
+#### <p align=center>Create a Todo. Serverless.</p
+                                                   
+```typescript
+async createToDo(todoItem: TodoItem): Promise<TodoItem>{
+        console.log("Creating new todo");
+        const params = { 
+            todo_Table: this.todosTable, 
+            Item: todoItem,
+        };
+        const result = await this.documentClient.put(params).promise();
+        logger.info('User created a todo', {result})
+        return todoItem as TodoItem;
+}
+```
 
 ---
 
