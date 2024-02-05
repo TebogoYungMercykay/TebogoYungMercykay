@@ -58,5 +58,3 @@ async createToDo(todoItem: TodoItem): Promise<TodoItem>{
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 
 ---
-
-<p align="centre"> The End, Thank You </p>
