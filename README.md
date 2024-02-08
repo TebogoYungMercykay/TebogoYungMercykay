@@ -15,7 +15,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
 
 ---
 
-# `SKILLS`
+# `PROFESSIONAL SKILLS`
 ```python
 import json
 
@@ -57,9 +57,15 @@ async createToDo(todoItem: TodoItem): Promise<TodoItem>{
 }
 ```
 
----
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
+
+---
+
+# `CONTACTS`
+- WhatsApp/Mobile: +27 66 411 0178
+- Email: sbkskhalo.kq@gmail.com
+- `LinkedIn Profile`: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 
 ---
