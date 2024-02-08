@@ -9,7 +9,7 @@
 
 # <p align=center>Personal Profile</p>
 
-I am a versatile Software Engineer/Developer and AWS Cloud Developer, driven by a passion for problem-solving and the practical application of technology to address real-world challenges. Beyond technology, I find joy in chess, art, and design, constantly nurturing my strategic thinking and creative Portfolio. I thrive on leveraging my diverse interests and expertise to make a meaningful impact through innovative solutions.
+I am a versatile Software Engineer/Developer and AWS Cloud Developer, driven by a passion for problem-solving and the practical application of technology to address real-world challenges. Additionally, I have a keen interest in Cyber Security and Ethical Hacking, further expanding my skills and knowledge to ensure robust and secure digital solutions. My enthusiasm for leveraging data to gain insights has also led me to explore the fascinating field of Data Science, where I apply analytical skills to extract valuable information and make informed decisions. Beyond technology, I find joy and excel in chess, art, and design, constantly nurturing my strategic thinking and creative Portfolio. I thrive on leveraging my diverse interests and expertise to make a meaningful impact through innovative solutions.
 
 Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspire aspiring minds on their educational and professional journeys. As Martin Luther King, Jr. once said, "Life's most persistent and urgent question is, what are you doing for others?" Mentoring is a way to contribute to others by dedicating yourself to your mentee's well-being. Since I enrolled in the STARS mentorship, I have a better appreciation for the importance of mentorship.
 
