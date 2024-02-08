@@ -3,7 +3,7 @@
   <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&center=true&vCenter=true&width=640&lines=👋+Hi+There+Hero%21%2C+I%E2%80%99m+Selepe+%3C%2FSello%3E" />
 </h1>
 
-<p align=center><img src="Joker_Rounded.png" height="auto" width="100%"></p>
+<p align=center><img src="Kali_Edit.png" height="auto" width="100%"></p>
 
 ---
 
