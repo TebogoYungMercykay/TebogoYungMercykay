@@ -7,7 +7,7 @@
 
 ---
 
-# <p align=center>Personal Profile</p>
+<h1 align=center>Personal Profile</h1>
 
 As a Software Developer with experience in AWS Cloud Development, Full-Stack Development, DevOps, Database Management, and Testing, I apply my problem-solving skills to address real-world challenges. My interest in Cyber Security and Ethical Hacking has broadened my knowledge and skills, enabling me to deliver secure digital solutions. I'm also intrigued by Data Science, where I use data to derive valuable insights and inform decisions. Outside of technology, I engage in chess, art, and design, which contribute to my strategic thinking and creativity. My diverse interests and expertise allow me to make a meaningful impact through innovative solutions. This diverse skill set makes me a valuable addition to any team, ready to contribute and learn in a dynamic environment.
 
@@ -15,7 +15,7 @@ Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspi
 
 ---
 
-# <p align=center>Professional Skills</p>
+<h1 align=center>Professional Skills</h1>
 
 ```python
 import json
@@ -64,7 +64,8 @@ async createToDo(todoItem: TodoItem): Promise<TodoItem>{
 
 ---
 
-# `CONTACTS`
+<h1 align=center>Contact Details</h1>
+
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
 - `LinkedIn Profile`: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
