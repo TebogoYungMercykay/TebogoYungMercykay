@@ -43,8 +43,10 @@ proficient_json = json.dumps({
 }, indent=4)
 ```
 
-<h4 align=center>[Snippet: Imperative Programming Languages](https://github.com/TebogoYungMercykay/Programming-Languages-Coding-Booth)</h4>
-                                                   
+<h4 align="center">
+  <a href="https://github.com/TebogoYungMercykay/Programming-Languages-Coding-Booth">Snippet: Imperative Programming Languages</a>
+</h4>
+                                         
 ```COBOL
 000100 IDENTIFICATION DIVISION.                                         -- Program metadata
 000200 PROGRAM-ID. statistics_program.                                  -- Program name
