@@ -43,19 +43,21 @@ proficient_json = json.dumps({
 }, indent=4)
 ```
 
-<h4 align=center>Create a Todo. Serverless.</h4>
+<h4 align=center>[Snippet: Imperative Programming Languages](https://github.com/TebogoYungMercykay/Programming-Languages-Coding-Booth)</h4>
                                                    
-```typescript
-async createToDo(todoItem: TodoItem): Promise<TodoItem>{
-        console.log("Creating new todo");
-        const params = { 
-            todo_Table: this.todosTable, 
-            Item: todoItem,
-        };
-        const result = await this.documentClient.put(params).promise();
-        logger.info('User created a todo', {result})
-        return todoItem as TodoItem;
-}
+```COBOL
+000100 IDENTIFICATION DIVISION.                                         -- Program metadata
+000200 PROGRAM-ID. statistics_program.                                  -- Program name
+000300 DATA DIVISION.                                                   -- Start of data declaration
+000400 WORKING-STORAGE SECTION.                                         -- Variables available throughout the program
+000500     01  arr             OCCURS 5 TIMES PIC 9.                    -- Array to hold 5 integers
+000600     01  smallest        PIC 9.                                   -- Variable to hold the smallest number
+000700     01  largest         PIC 9.                                   -- Variable to hold the largest number
+000800     01  mode_value      PIC 9.                                   -- Variable to hold the mode
+000900     01  i               PIC 9.                                   -- Loop counter for various loops
+001000     01  j               PIC 9.                                   -- Loop counter for nested loops
+001100     01  COUNTER         PIC 9.                                   -- Counter for mode calculation
+001200     01  max_count       PIC 9.                                   -- Variable to hold the maximum count
 ```
 
 
