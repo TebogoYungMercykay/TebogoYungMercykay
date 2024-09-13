@@ -44,7 +44,7 @@ proficient_json = json.dumps({
 ```
 
 <h4 align="center">
-  <a href="https://github.com/TebogoYungMercykay/Programming-Languages-Coding-Booth">Snippet: Imperative Programming Languages</a>
+  <a href="https://github.com/TebogoYungMercykay/Programming-Languages-Coding-Booth">Code Snippet From: Imperative Programming Languages</a>
 </h4>
                                          
 ```COBOL
