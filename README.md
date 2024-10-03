@@ -58,8 +58,10 @@ proficient_json = json.dumps({
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br>Python</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/><br>JavaScript</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/><br>PHP</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/><br>PHP</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/><br>Typescript</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby"/><br>Ruby</td>
         </tr>
       </table>
     </details>
@@ -67,12 +69,13 @@ proficient_json = json.dumps({
       <summary><b>Front-End Tools</b></summary>
       <table>
         <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br>Angular</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/><br>Next.js</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/><br>React</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/><br>NextJS</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/><br>Bootstrap</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/><br>Tailwind CSS</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery"/><br>jQuery</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br>Angular</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/><br>Figma</td>
         </tr>
       </table>
     </details>
@@ -80,9 +83,9 @@ proficient_json = json.dumps({
       <summary><b>Back-End Tools</b></summary>
       <table>
         <tr>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/><br>FastAPI</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/><br>Node.js</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/><br>Django</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/><br>FastAPI</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/><br>Express.js</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/><br>Flask</td>
         </tr>
@@ -94,9 +97,10 @@ proficient_json = json.dumps({
         <tr>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/><br>HTML</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/><br>CSS</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=json" width="45" height="45" alt="JSON"/><br>JSON</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ajax" width="45" height="45" alt="AJAX"/><br>AJAX</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JSON"/><br>JSON</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="AJAX"/><br>AJAX</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=markdown" width="45" height="45" alt="Markdown"/><br>Markdown</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=latex" width="45" height="45" alt="Latex"/><br>Latex</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=socketio" width="45" height="45" alt="Socket.io"/><br>Socket.io</td>
         </tr>
       </table>
@@ -106,23 +110,49 @@ proficient_json = json.dumps({
       <table>
         <tr>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/><br>MongoDB</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase"/><br>Supabase</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/><br>PostgreSQL</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mssql" width="45" height="45" alt="Microsoft SQL Server"/><br>SQL Server</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite"/><br>SQLite</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQL Lite"/><br>SQL Lite</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/><br>MongoDB</td>
         </tr>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS RDS</td>
       </table>
     </details>
     <details>
-      <summary><b>AWS Services</b></summary>
+      <summary><b>MISC</b></summary>
       <table>
         <tr>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=s3" width="45" height="45" alt="S3"/><br>S3 Bucket</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=lambda" width="45" height="45" alt="Lambda"/><br>Lambda</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="DynamoDB"/><br>DynamoDB</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ec2" width="45" height="45" alt="EC2"/><br>EC2</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=apigateway" width="45" height="45" alt="API Gateway"/><br>API Gateway</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="S3"/><br>Windows</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack"/><br>Webpack</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode"/><br>VS Code</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=visualstudio" width="45" height="45" alt="visualstudio"/><br>Visual Studio</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="ubuntu"/><br>Ubuntu</td>
+        <tr>
+        </tr>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/><br>Redis</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/><br>Redux</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali Linux"/><br>Kali Linux</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br>Postman</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM"/><br>NPM</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="nginx"/><br>Nginx</td>
+        <tr>
+        </tr>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="netlify"/><br>Netlify</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux"/><br>Linux</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="jest"/><br>Jest</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku"/><br>Heroku</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/><br>GitHub Actions</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/><br>Git</td>
+        <tr>
+        </tr>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br>Docker</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress"/><br>Cypress</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cmake" width="45" height="45" alt="CMake"/><br>CMake</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/><br>Bash</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/><br>Azure</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda"/><br>Anaconda</td>
+          anaconda
         </tr>
       </table>
     </details>
