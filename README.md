@@ -114,7 +114,6 @@ proficient_json = json.dumps({
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/><br>PostgreSQL</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQL Lite"/><br>SQL Lite</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/><br>MongoDB</td>
-        </tr>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS RDS</td>
       </table>
     </details>
