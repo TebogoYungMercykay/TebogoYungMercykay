@@ -47,7 +47,7 @@ proficient_json = json.dumps({
 }, indent=4)
 ```
 <details>
-  <summary> :lock: Skill Icons</summary>
+  <summary>🔒 Click to View Some Skills and Icons</summary>
   <br/>
   <div align="center">
     <details>
