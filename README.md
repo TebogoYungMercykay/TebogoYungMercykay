@@ -60,8 +60,6 @@ proficient_json = json.dumps({
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/><br>C++</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br>Python</td>
-              </tr>
-              <tr>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/><br>JavaScript</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/><br>PHP</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#</td>
@@ -79,8 +77,6 @@ proficient_json = json.dumps({
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br>Angular</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/><br>React</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/><br>NextJS</td>
-              </tr>
-              <tr>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/><br>Bootstrap</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/><br>Tailwind CSS</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery"/><br>jQuery</td>
@@ -98,8 +94,6 @@ proficient_json = json.dumps({
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/><br>Node.js</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/><br>Django</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/><br>FastAPI</td>
-              </tr>
-              <tr>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/><br>Express.js</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/><br>Flask</td>
               </tr>
@@ -116,8 +110,6 @@ proficient_json = json.dumps({
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/><br>HTML</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/><br>CSS</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=json" width="45" height="45" alt="JSON"/><br>JSON</td>
-              </tr>
-              <tr>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ajax" width="45" height="45" alt="AJAX"/><br>AJAX</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=markdown" width="45" height="45" alt="Markdown"/><br>Markdown</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=socketio" width="45" height="45" alt="Socket.io"/><br>Socket.io</td>
@@ -135,8 +127,6 @@ proficient_json = json.dumps({
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/><br>MongoDB</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/><br>PostgreSQL</td>
-              </tr>
-              <tr>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mssql" width="45" height="45" alt="Microsoft SQL Server"/><br>SQL Server</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite"/><br>SQLite</td>
               </tr>
@@ -153,8 +143,6 @@ proficient_json = json.dumps({
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=s3" width="45" height="45" alt="S3"/><br>S3 Bucket</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=lambda" width="45" height="45" alt="Lambda"/><br>Lambda</td>
-              </tr>
-              <tr>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="DynamoDB"/><br>DynamoDB</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ec2" width="45" height="45" alt="EC2"/><br>EC2</td>
                 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=apigateway" width="45" height="45" alt="API Gateway"/><br>API Gateway</td>
