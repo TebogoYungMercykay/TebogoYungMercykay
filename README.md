@@ -122,36 +122,36 @@ proficient_json = json.dumps({
       <summary><b>MISC</b></summary>
       <table>
         <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux"/><br>Linux</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="S3"/><br>Windows</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack"/><br>Webpack</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali Linux"/><br>Kali</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="ubuntu"/><br>Ubuntu</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode"/><br>VS Code</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=visualstudio" width="45" height="45" alt="visualstudio"/><br>Visual Studio</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="ubuntu"/><br>Ubuntu</td>
         <tr>
         </tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/><br>Redis</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/><br>Redux</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali Linux"/><br>Kali Linux</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br>Postman</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM"/><br>NPM</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/><br>Azure</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br>Docker</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku"/><br>Heroku</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="netlify"/><br>Netlify</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="nginx"/><br>Nginx</td>
         <tr>
         </tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="netlify"/><br>Netlify</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux"/><br>Linux</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="jest"/><br>Jest</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku"/><br>Heroku</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/><br>GitHub Actions</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/><br>Git</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/><br>GitHub Actions</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br>Postman</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="jest"/><br>Jest</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack"/><br>Webpack</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress"/><br>Cypress</td>
         <tr>
         </tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br>Docker</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress"/><br>Cypress</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM"/><br>NPM</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/><br>Redis</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/><br>Redux</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda"/><br>Anaconda</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cmake" width="45" height="45" alt="CMake"/><br>CMake</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/><br>Bash</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/><br>Azure</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda"/><br>Anaconda</td>
         </tr>
       </table>
     </details>
