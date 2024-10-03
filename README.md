@@ -152,7 +152,6 @@ proficient_json = json.dumps({
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/><br>Bash</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/><br>Azure</td>
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda"/><br>Anaconda</td>
-          anaconda
         </tr>
       </table>
     </details>
