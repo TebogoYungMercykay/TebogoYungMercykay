@@ -180,8 +180,6 @@ proficient_json = json.dumps({
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true">
-</a>
-<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true">
 </a>
 
