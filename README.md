@@ -9,9 +9,9 @@
 
 <h1 align=center>Personal Profile</h1>
 
-As a Software Developer with experience in AWS Cloud Development, Full-Stack Development, DevOps, Database Management, and Testing, I apply my problem-solving skills to address real-world challenges. My interest in Cyber Security and Ethical Hacking has broadened my knowledge and skills, enabling me to deliver secure digital solutions. I'm also intrigued by Data Science, where I use data to derive valuable insights and inform decisions. Outside of technology, I engage in chess, art, and design, which contribute to my strategic thinking and creativity. My diverse interests and expertise allow me to make a meaningful impact through innovative solutions. This diverse skill set makes me a valuable addition to any team, ready to contribute and learn in a dynamic environment.
+Driven by a passion for solving real-world challenges, I specialize in AWS Cloud Development, DevOps Engineering, Web Development, Database Management, and Software Testing. My curiosity for Cybersecurity and Ethical Hacking fuels my ability to create secure, scalable solutions tailored to the ever-evolving demands of the software industry. Constantly exploring cutting-edge tools and practices, I thrive in dynamic environments that push innovation.
 
-Additionally, as a STARS Mentor at the University of Pretoria, I guide and inspire aspiring minds on their educational and professional journeys. As Martin Luther King, Jr. once said, "Life's most persistent and urgent question is, what are you doing for others?" Mentoring is a way to contribute to others by dedicating yourself to your mentee's well-being. Since I enrolled in the STARS mentorship, I have a better appreciation for the importance of mentorship.
+Equipped with a growing interest in Data Science, I enjoy uncovering actionable insights from data to guide strategic decisions. Outside the realm of technology, my love for chess and art sharpens my creativity and strategic thinking, which I bring into every project and collaboration.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There's%20something%20going%20on%20in%20time%20and%20space,%20and%20beyond%20time%20and%20space,%20which,%20whether%20we%20like%20it%20or%20not,%20spells%20duty.&author=Winston%20Churchill" />
