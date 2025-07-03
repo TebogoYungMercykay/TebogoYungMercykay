@@ -46,11 +46,12 @@ proficient_json = json.dumps({
     "Web Frameworks": ["Django", "Flask", "Node.js with Express", "PHP"]
 }, indent=4)
 ```
+
 <details>
   <summary> 🫣 Click to View Some Skills and Icons</summary>
   <br/>
   <div align="center">
-    <details>
+    <details open>
       <summary><b>Languages</b></summary>
       <table>
         <tr>
@@ -65,7 +66,7 @@ proficient_json = json.dumps({
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Front-End Tools</b></summary>
       <table>
         <tr>
@@ -79,7 +80,7 @@ proficient_json = json.dumps({
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Back-End Tools</b></summary>
       <table>
         <tr>
@@ -91,7 +92,7 @@ proficient_json = json.dumps({
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Web Technologies</b></summary>
       <table>
         <tr>
@@ -105,7 +106,7 @@ proficient_json = json.dumps({
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Databases</b></summary>
       <table>
         <tr>
@@ -117,7 +118,7 @@ proficient_json = json.dumps({
           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS RDS</td>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>MISC</b></summary>
       <table>
         <tr>
