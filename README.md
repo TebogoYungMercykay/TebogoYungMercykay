@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&center=true&vCenter=true&width=640&lines=👋+Hi+There+Hero%21%2C+I%E2%80%99m+Selepe+%3C%2FSello%3E" />
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&center=true&vCenter=true&width=640&lines=👋+Hi+There+Hero!+I'm+Selepe+%3CSello%3E" />
 </h1>
 
 ![Kali_Edit](./images/Kali_Edit.png)
