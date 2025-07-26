@@ -9,9 +9,9 @@
 
 <h1 align=center>Personal Profile</h1>
 
-Driven by a passion for solving real-world challenges, I specialize in AWS Cloud Development, DevOps Engineering, Web Development, Database Management, and Software Testing. With a keen interest in Cybersecurity and Ethical Hacking, I focus on delivering secure, scalable solutions that meet the ever-evolving demands of the software industry. Constantly exploring cutting-edge tools and practices, I thrive in dynamic environments that foster innovation and growth.
+Computer Sciences graduate and one of South Africa's most active GitHub contributors with 2.6K+ commits and 1.6K+ pull requests across 50+ open-source projects. I specialize in building secure, scalable, high-performance solutions in Software Engineering, DevOps, and AWS Cloud Development, with a strong focus on end-product delivery and collaborative development.
 
-My growing interest in Data Science fuels my ability to analyze data, uncover actionable insights, and guide strategic decisions. Outside of technology, my love for chess and art sharpens my creativity and strategic thinking, traits I integrate into every project and collaboration.
+My expertise spans Web Development, Database Management, Software Testing, and Cybersecurity, while my growing passion for Data Science drives me to uncover actionable insights that guide strategic decisions. I thrive in dynamic environments that foster innovation, continuous learning, and the delivery of cutting-edge solutions that meet evolving industry demands.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There's%20something%20going%20on%20in%20time%20and%20space,%20and%20beyond%20time%20and%20space,%20which,%20whether%20we%20like%20it%20or%20not,%20spells%20duty.&author=Winston%20Churchill" />
