@@ -188,11 +188,10 @@ proficient_json = json.dumps({
 </p>
 
 ---
+<h1 align="center">CONTACT</h1>
 
-<h1 align=center>CONTACT</h1>
-
-- WhatsApp/Mobile: +27 66 411 0178
-- Email: sbkskhalo.kq@gmail.com
-- `LinkedIn Profile`: [sello-selepe](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
+- **WhatsApp/Mobile:** +27 66 411 0178
+- **Email:** sbkskhalo.kq@gmail.com
+- **LinkedIn Profile:** [in/sello-selepe-tebogoyungmercykay](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 
 ---
