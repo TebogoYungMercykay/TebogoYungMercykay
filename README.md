@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align=center>Personal Profile</h1>
+<h1 align=center>SUMMARY</h1>
 
 Computer Sciences graduate and one of South Africa's most active GitHub contributors with 2.6K+ commits and 1.6K+ pull requests across 50+ open-source projects. I specialize in building secure, scalable, high-performance solutions in Software Engineering, DevOps, and AWS Cloud Development, with a strong focus on end-product delivery and collaborative development.
 
@@ -19,7 +19,7 @@ My expertise spans Web Development, Database Management, Software Testing, and C
 
 ---
 
-<h1 align=center>Professional Skills</h1>
+<h1 align=center>SKILLS</h1>
 
 ```python
 import json
@@ -189,7 +189,7 @@ proficient_json = json.dumps({
 
 ---
 
-<h1 align=center>Contact Details</h1>
+<h1 align=center>CONTACT</h1>
 
 - WhatsApp/Mobile: +27 66 411 0178
 - Email: sbkskhalo.kq@gmail.com
