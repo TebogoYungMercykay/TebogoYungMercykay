@@ -9,9 +9,10 @@
 
 <h1 align=center>SUMMARY</h1>
 
-Computer Sciences graduate and one of South Africa's most active GitHub contributors with 2.6K+ commits and 1.6K+ pull requests across 50+ open-source projects. I specialize in building secure, scalable, high-performance solutions in Software Engineering, DevOps, and AWS Cloud Development, with a strong focus on end-product delivery and collaborative development.
 
-My expertise spans Web Development, Database Management, Software Testing, and Cybersecurity, while my growing passion for Data Science drives me to uncover actionable insights that guide strategic decisions. I thrive in dynamic environments that foster innovation, continuous learning, and the delivery of cutting-edge solutions that meet evolving industry demands.
+Computer Science graduate and active open-source contributor specializing in building secure, scalable, high-performance solutions. My expertise spans Software Engineering, DevOps, AWS Cloud Development, Web Development, Database Management, and Software Testing, with a strong focus on end-product delivery and collaborative development.
+
+Driven by a passion for Cybersecurity and Data Science, I thrive in dynamic environments that foster innovation and continuous learning. I am committed to delivering cutting-edge solutions that solve real-world challenges, meet evolving industry demands, and create meaningful impact through technology.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There's%20something%20going%20on%20in%20time%20and%20space,%20and%20beyond%20time%20and%20space,%20which,%20whether%20we%20like%20it%20or%20not,%20spells%20duty.&author=Winston%20Churchill" />
