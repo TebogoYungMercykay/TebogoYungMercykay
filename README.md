@@ -179,6 +179,11 @@ proficient_json = json.dumps({
 001200     01  max_count       PIC 9.                                   -- Variable to hold the maximum count
 ```
 
+
+<a><img src="https://github-readme-stats-two-phi-84.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
+<a><img src="https://github-readme-stats-two-phi-84.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
+
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20destiny%20of%20man%20is%20not%20measured%20by%20material%20computations.%20When%20great%20forces%20are%20on%20the%20move%20in%20the%20world,%20we%20learn%20we're%20spirits%20-%20not%20animals.&author=Winston%20Churchill" />
 </p>
