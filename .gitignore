@@ -1,1 +1,67 @@
-*.pdf
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node (if using any build tools)
+node_modules/
+dist/
+.npm
+.yarn-integrity
+package-lock.json
+yarn.lock
+
+# Python (if running any scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Environment & secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+*.secret
+secrets.json
+config.private.*
+
+# Build outputs
+build/
+out/
+.cache/
+*.tmp
+*.temp
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Stats / analytics cache
+.vercel
+.netlify
+
+# GitHub Actions local testing
+act/

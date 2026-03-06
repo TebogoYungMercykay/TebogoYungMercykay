@@ -23,74 +23,74 @@ Driven by a passion for Cybersecurity and Data Science, I thrive in dynamic envi
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top"><b>Languages & Core</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" width="56" height="56" alt="Python" title="Python" />
-      <img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" title="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" title="TypeScript" />
-      <img src="https://skillicons.dev/icons?i=java" width="56" height="56" alt="Java" title="Java" />
-      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++" title="C++" />
-      <img src="https://skillicons.dev/icons?i=cs" width="56" height="56" alt="C#" title="C#" />
-      <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="PHP" title="PHP" />
+      <img src="https://skillicons.dev/icons?i=python" width="56" height="56" alt="Python" title="Python" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" title="JavaScript" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" title="TypeScript" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=java" width="56" height="56" alt="Java" title="Java" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++" title="C++" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=cs" width="56" height="56" alt="C#" title="C#" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="PHP" title="PHP" hspace="8" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" title="React" />
-      <img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next.js" title="Next.js" />
-      <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="Tailwind" title="Tailwind" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="Bootstrap" title="Bootstrap" />
-      <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" title="HTML" />
-      <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS" title="CSS" />
-      <img src="https://skillicons.dev/icons?i=figma" width="56" height="56" alt="Figma" title="Figma" />
+      <img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" title="React" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next.js" title="Next.js" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="Tailwind" title="Tailwind" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="Bootstrap" title="Bootstrap" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" title="HTML" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS" title="CSS" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=figma" width="56" height="56" alt="Figma" title="Figma" hspace="8" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" title="FastAPI" />
-      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node.js" title="Node.js" />
-      <img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Express" title="Express" />
-      <img src="https://skillicons.dev/icons?i=django" width="56" height="56" alt="Django" title="Django" />
-      <img src="https://skillicons.dev/icons?i=flask" width="56" height="56" alt="Flask" title="Flask" />
-      <img src="https://skillicons.dev/icons?i=dotnet" width="56" height="56" alt=".NET" title=".NET" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" title="FastAPI" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node.js" title="Node.js" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Express" title="Express" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=django" width="56" height="56" alt="Django" title="Django" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=flask" width="56" height="56" alt="Flask" title="Flask" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=dotnet" width="56" height="56" alt=".NET" title=".NET" hspace="8" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" title="PostgreSQL" />
-      <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" title="MySQL" />
-      <img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="MongoDB" title="MongoDB" />
-      <img src="https://skillicons.dev/icons?i=supabase" width="56" height="56" alt="Supabase" title="Supabase" />
-      <img src="https://skillicons.dev/icons?i=dynamodb" width="56" height="56" alt="DynamoDB" title="DynamoDB" />
-      <img src="https://skillicons.dev/icons?i=sqlite" width="56" height="56" alt="SQLite" title="SQLite" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" title="PostgreSQL" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" title="MySQL" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="MongoDB" title="MongoDB" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="56" height="56" alt="Supabase" title="Supabase" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=dynamodb" width="56" height="56" alt="DynamoDB" title="DynamoDB" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="56" height="56" alt="SQLite" title="SQLite" hspace="8" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Cloud & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" title="AWS" />
-      <img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" title="Docker" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="56" height="56" alt="Kubernetes" title="Kubernetes" />
-      <img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="GitHub Actions" title="GitHub Actions" />
-      <img src="https://skillicons.dev/icons?i=nginx" width="56" height="56" alt="Nginx" title="Nginx" />
-      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel" title="Vercel" />
-      <img src="https://skillicons.dev/icons?i=heroku" width="56" height="56" alt="Heroku" title="Heroku" />
+      <img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" title="AWS" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" title="Docker" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="56" height="56" alt="Kubernetes" title="Kubernetes" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="GitHub Actions" title="GitHub Actions" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="56" height="56" alt="Nginx" title="Nginx" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel" title="Vercel" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=heroku" width="56" height="56" alt="Heroku" title="Heroku" hspace="8" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Tools & Testing</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" title="Git" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VS Code" title="VS Code" />
-      <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" title="Postman" />
-      <img src="https://skillicons.dev/icons?i=jest" width="56" height="56" alt="Jest" title="Jest" />
-      <img src="https://skillicons.dev/icons?i=cypress" width="56" height="56" alt="Cypress" title="Cypress" />
-      <img src="https://skillicons.dev/icons?i=wordpress" width="56" height="56" alt="WordPress" title="WordPress" />
+      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" title="Git" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VS Code" title="VS Code" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" title="Postman" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=jest" width="56" height="56" alt="Jest" title="Jest" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="56" height="56" alt="Cypress" title="Cypress" hspace="8" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="56" height="56" alt="WordPress" title="WordPress" hspace="8" />
     </td>
   </tr>
 </table>
