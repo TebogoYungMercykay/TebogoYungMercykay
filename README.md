@@ -3,12 +3,11 @@
   <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&center=true&vCenter=true&width=640&lines=👋+Hi+There+Hero!+I'm+Selepe+%3C/Sello%3E" />
 </h1>
 
-![Kali_Edit](./images/Kali_Edit.png)
+![Kali Edit](./images/kali.png)
 
 ---
 
 <h1 align=center>SUMMARY</h1>
-
 
 Computer Science graduate and active open-source contributor specializing in building secure, scalable, high-performance solutions. My expertise spans Software Engineering, DevOps, AWS Cloud Development, Web Development, Database Management, and Software Testing, with a strong focus on end-product delivery and collaborative development.
 
@@ -20,150 +19,88 @@ Driven by a passion for Cybersecurity and Data Science, I thrive in dynamic envi
 
 ---
 
-<h1 align=center>SKILLS</h1>
+<h1 align="center">DEV TOOLS</h1>
 
-```python
-import json
+<div align="center">
 
-proficient_json = json.dumps({
-    "Languages": ["C++", "Java", "Python", "JavaScript", "C#", "PHP", "Node.js", "Typescript"],
-    "Front-End  Tools": [
-        "Angular", "React", "Ionic", "Bootstrap",
-        "jQuery", "NextJS", "Tailwind CSS"
-    ],
-    "Back-End Tools": ["Node.js", "Express.js", "Django", "FastAPI", "Flask"],
-    "Web Technologies": ["JSON", "AJAX", "HTML & CSS", "Markdown", "Socket.io"],
-    "Databases": ["MySQL", "MongoDB", "NeDB", "PostgreSQL", "Microsoft SQL Server"],
-    "AWS Services": [
-        "AWS", "S3 Bucket", "DynamoDB", "AWS Lambda", "XRAY",
-        "API Gateway", "AWS Elastic Beanstalk", "Amazon EC2",
-        "AWS CloudFormation", "AWS IAM (AWS Identity and Access Management)"
-    ],
-    "Development Tools": [
-        "phpMyAdmin", "Docker", "Continuous Integration and Continuous Delivery (CI/CD)",
-        "CircleCI", "SSMS"
-    ],
-    "Terminals": ["CMD", "Kali Linux", "Bash", "WSL", "PowerShell", "Ubuntu"],
-    "Web Frameworks": ["Django", "Flask", "Node.js with Express", "PHP"]
-}, indent=4)
-```
+<table>
+  <tr>
+    <td valign="top"><b>Languages & Core</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" width="56" height="56" alt="Python" title="Python" />
+      <img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=java" width="56" height="56" alt="Java" title="Java" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++" title="C++" />
+      <img src="https://skillicons.dev/icons?i=cs" width="56" height="56" alt="C#" title="C#" />
+      <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="PHP" title="PHP" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" title="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next.js" title="Next.js" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="Tailwind" title="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="Bootstrap" title="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" title="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS" title="CSS" />
+      <img src="https://skillicons.dev/icons?i=figma" width="56" height="56" alt="Figma" title="Figma" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" title="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node.js" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Express" title="Express" />
+      <img src="https://skillicons.dev/icons?i=django" width="56" height="56" alt="Django" title="Django" />
+      <img src="https://skillicons.dev/icons?i=flask" width="56" height="56" alt="Flask" title="Flask" />
+      <img src="https://skillicons.dev/icons?i=dotnet" width="56" height="56" alt=".NET" title=".NET" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" title="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="MongoDB" title="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="56" height="56" alt="Supabase" title="Supabase" />
+      <img src="https://skillicons.dev/icons?i=dynamodb" width="56" height="56" alt="DynamoDB" title="DynamoDB" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="56" height="56" alt="SQLite" title="SQLite" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" title="AWS" />
+      <img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" title="Docker" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="56" height="56" alt="Kubernetes" title="Kubernetes" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="GitHub Actions" title="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="56" height="56" alt="Nginx" title="Nginx" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel" title="Vercel" />
+      <img src="https://skillicons.dev/icons?i=heroku" width="56" height="56" alt="Heroku" title="Heroku" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Tools & Testing</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" title="Git" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VS Code" title="VS Code" />
+      <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" title="Postman" />
+      <img src="https://skillicons.dev/icons?i=jest" width="56" height="56" alt="Jest" title="Jest" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="56" height="56" alt="Cypress" title="Cypress" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="56" height="56" alt="WordPress" title="WordPress" />
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary> 🫣 Click to View Some Skills and Icons</summary>
-  <br/>
-  <div align="center">
-    <details open>
-      <summary><b>Languages</b></summary>
-      <table>
-        <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/><br>C++</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br>Python</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/><br>JavaScript</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/><br>PHP</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/><br>Typescript</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby"/><br>Ruby</td>
-        </tr>
-      </table>
-    </details>
-    <details open>
-      <summary><b>Front-End Tools</b></summary>
-      <table>
-        <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/><br>Next.js</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/><br>React</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/><br>Bootstrap</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/><br>Tailwind CSS</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery"/><br>jQuery</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br>Angular</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/><br>Figma</td>
-        </tr>
-      </table>
-    </details>
-    <details open>
-      <summary><b>Back-End Tools</b></summary>
-      <table>
-        <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/><br>FastAPI</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/><br>Node.js</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/><br>Django</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/><br>Express.js</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/><br>Flask</td>
-        </tr>
-      </table>
-    </details>
-    <details open>
-      <summary><b>Web Technologies</b></summary>
-      <table>
-        <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/><br>HTML</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/><br>CSS</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JSON"/><br>JSON</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="AJAX"/><br>AJAX</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=markdown" width="45" height="45" alt="Markdown"/><br>Markdown</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=latex" width="45" height="45" alt="Latex"/><br>Latex</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=socketio" width="45" height="45" alt="Socket.io"/><br>Socket.io</td>
-        </tr>
-      </table>
-    </details>
-    <details open>
-      <summary><b>Databases</b></summary>
-      <table>
-        <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase"/><br>Supabase</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/><br>PostgreSQL</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQL Lite"/><br>SQL Lite</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/><br>MongoDB</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS RDS</td>
-      </table>
-    </details>
-    <details open>
-      <summary><b>MISC</b></summary>
-      <table>
-        <tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux"/><br>Linux</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="S3"/><br>Windows</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali Linux"/><br>Kali</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="ubuntu"/><br>Ubuntu</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode"/><br>VS Code</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=visualstudio" width="45" height="45" alt="visualstudio"/><br>Visual Studio</td>
-        <tr>
-        </tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/><br>Azure</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br>Docker</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku"/><br>Heroku</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="netlify"/><br>Netlify</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="nginx"/><br>Nginx</td>
-        <tr>
-        </tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/><br>Git</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/><br>GitHub Actions</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br>Postman</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="jest"/><br>Jest</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack"/><br>Webpack</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress"/><br>Cypress</td>
-        <tr>
-        </tr>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM"/><br>NPM</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/><br>Redis</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/><br>Redux</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda"/><br>Anaconda</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cmake" width="45" height="45" alt="CMake"/><br>CMake</td>
-          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/><br>Bash</td>
-        </tr>
-      </table>
-    </details>
-  </div>
-  <br/>
-</details>
+</div>
 
 <h4 align="center">
   <a href="https://github.com/TebogoYungMercykay/Programming-Languages-Coding-Booth">Code Snippet From: Imperative Programming Languages</a>
 </h4>
-                                         
+
 ```COBOL
 000100 IDENTIFICATION DIVISION.                                         -- Program metadata
 000200 PROGRAM-ID. statistics_program.                                  -- Program name
@@ -179,20 +116,21 @@ proficient_json = json.dumps({
 001200     01  max_count       PIC 9.                                   -- Variable to hold the maximum count
 ```
 
-
 <a><img src="https://github-readme-stats-two-phi-84.vercel.app/api?username=tebogoyungmercykay&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
 <a><img src="https://github-readme-stats-two-phi-84.vercel.app/api/top-langs/?username=tebogoyungmercykay&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20destiny%20of%20man%20is%20not%20measured%20by%20material%20computations.%20When%20great%20forces%20are%20on%20the%20move%20in%20the%20world,%20we%20learn%20we're%20spirits%20-%20not%20animals.&author=Winston%20Churchill" />
 </p>
 
 ---
-<h1 align="center">CONTACT</h1>
+<h1 align="center">CONTACT ME</h1>
+
+I'm always open to discussing new projects, opportunities, or collaborations.
 
 - **WhatsApp/Mobile:** +27 66 411 0178
 - **Email:** [sbkskhalo.kq@gmail.com](mailto:sbkskhalo.kq@gmail.com)
+- **Website:** [tebogoyungmercykay.co.za](https://www.tebogoyungmercykay.co.za)
 - **LinkedIn Profile:** [in/sello-selepe-tebogoyungmercykay](https://www.linkedin.com/in/sello-selepe-tebogoyungmercykay/)
 
 ---
